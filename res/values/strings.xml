@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swaartal1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="cshk_ada_low1_arrays">
+        <item>cshk_ada_low_drut1</item>
+        <item>cshk_ada_low_drut2</item>
+    </string-array>
+    <string-array name="cshk_ada_low2_arrays">
+        <item>cshk_ada_low_madhya</item>
+    </string-array>
+    <string-array name="cshk_ada_low3_arrays">
+        <item>cshk_ada_low_vilambit1</item>
+        <item>cshk_ada_low_vilambit2</item>
+    </string-array>
+    <string-array name="cshk_ada_high1_arrays">
+        <item>cshk_ada_high_drut1</item>
+        <item>cshk_ada_high_drut2</item>
+        <item>cshk_ada_high_drut3</item>
+        <item>cshk_ada_high_drut4</item>
+    </string-array>
+    <string-array name="cshk_ada_high2_arrays">
+        <item>cshk_ada_high_madhya1</item>
+        <item>cshk_ada_high_madhya2</item>
+        <item>cshk_ada_high_madhya3</item>
+        <item>cshk_ada_high_madhya4</item>
+    </string-array>
+    <string-array name="cshk_ada_high3_arrays">
+        <item>cshk_ada_high_vilambit1</item>
+        <item>cshk_ada_high_vilambit2</item>
+        <item>cshk_ada_high_vilambit3</item>
+        <item>cshk_ada_high_vilambit4</item>
+    </string-array>
+    <string-array name="cshk_ekt_low1_arrays">
+        <item>cshk_ekt_low_drut1</item>
+        <item>cshk_ekt_low_drut2</item>
+        <item>cshk_ekt_low_drut3</item>
+        <item>cshk_ekt_low_drut4</item>
+    </string-array>
+    <string-array name="cshk_ekt_low2_arrays">
+        <item>cshk_ekt_low_madhya1</item>
+        <item>cshk_ekt_low_madhya2</item>
+        <item>cshk_ekt_low_madhya3</item>
+        <item>cshk_ekt_low_madhya4</item>
+    </string-array>
+    <string-array name="cshk_ekt_low3_arrays">
+        <item>cshk_ekt_low_vilambit1</item>
+        <item>cshk_ekt_low_vilambit2</item>
+        <item>cshk_ekt_low_vilambit3</item>
+        <item>cshk_ekt_low_vilambit4</item>
+        <item>cshk_ekt_low_vilambit5</item>
+    </string-array>
+    <string-array name="cshk_ekt_high1_arrays">
+        <item>cshk_ekt_high_drut1</item>
+        <item>cshk_ekt_high_drut2</item>
+        <item>cshk_ekt_high_drut3</item>
+        <item>cshk_ekt_high_drut4</item>
+        <item>cshk_ekt_high_drut5</item>
+        <item>cshk_ekt_high_drut6</item>
+        <item>cshk_ekt_high_drut7</item>
+        <item>cshk_ekt_high_drut8</item>
+        <item>cshk_ekt_high_drut9</item>
+        <item>cshk_ekt_high_drut10</item>
+        <item>cshk_ekt_high_drut11</item>
+    </string-array>
+    <string-array name="cshk_ekt_high2_arrays">
+        <item>cshk_ekt_high_madhya1</item>
+        <item>cshk_ekt_high_madhya2</item>
+        <item>cshk_ekt_high_madhya3</item>
+        <item>cshk_ekt_high_madhya4</item>
+        <item>cshk_ekt_high_madhya5</item>
+        <item>cshk_ekt_high_madhya6</item>
+        <item>cshk_ekt_high_madhya7</item>
+        <item>cshk_ekt_high_madhya8</item>
+        <item>cshk_ekt_high_madhya9</item>
+        <item>cshk_ekt_high_madhya10</item>
+        <item>cshk_ekt_high_madhya11</item>
+        <item>cshk_ekt_high_madhya12</item>
+    </string-array> 
+     <string-array name="cshk_ekt_high3_arrays">
+        <item>cshk_ekt_high_vilambit1</item>
+        <item>cshk_ekt_high_vilambit2</item>
+        <item>cshk_ekt_high_vilambit3</item>
+        <item>cshk_ekt_high_vilambit4</item>
+        <item>cshk_ekt_high_vilambit5</item>
+        <item>cshk_ekt_high_vilambit6</item>
+        <item>cshk_ekt_high_vilambit7</item>
+        <item>cshk_ekt_high_vilambit8</item>
+        <item>cshk_ekt_high_vilambit9</item>
+        <item>cshk_ekt_high_vilambit10</item>
+        <item>cshk_ekt_high_vilambit11</item>
+    </string-array>
+    <string-array name="cshk_sul_low_arrays">
+        <item>cshk_sul_low1</item>
+        <item>cshk_sul_low2</item>
+        <item>cshk_sul_low3</item>
+        <item>cshk_sul_low4</item>
+        <item>cshk_sul_low5</item>
+    </string-array>
+    <string-array name="cshk_sul_high_arrays">
+        <item>cshk_sul_high1</item>
+        <item>cshk_sul_high2</item>
+        <item>cshk_sul_high3</item>
+        <item>cshk_sul_high4</item>
+        <item>cshk_sul_high5</item>
+    </string-array>
+    <string-array name="cshk_addha_low_arrays">
+        <item>cshk_addha_low1</item>
+        <item>cshk_addha_low2</item>
+        <item>cshk_addha_low3</item>
+        <item>cshk_addha_low4</item>
+    </string-array> 
+    <string-array name="cshk_addha_high_arrays">
+        <item>cshk_addha_high1</item>
+        <item>cshk_addha_high2</item>
+        <item>cshk_addha_high3</item>
+        <item>cshk_addha_high4</item>
+        <item>cshk_addha_high5</item>
+        <item>cshk_addha_high6</item>
+        <item>cshk_addha_high7</item>
+        <item>cshk_addha_high8</item>
+        <item>cshk_addha_high9</item>
+        <item>cshk_addha_high10</item>
+        <item>cshk_addha_high11</item>
+    </string-array>
+    <string-array name="cshk_filmikeh_low_arrays">
+        <item>cshk_filmikeh_low1</item>
+        <item>cshk_filmikeh_low2</item>
+        <item>cshk_filmikeh_low3</item>
+        <item>cshk_filmikeh_low4</item>
+    </string-array>
+    <string-array name="cshk_filmikeh_high_arrays">
+        <item>cshk_filmikeh_high1</item>
+        <item>cshk_filmikeh_high2</item>
+        <item>cshk_filmikeh_high3</item>
+        <item>cshk_filmikeh_high4</item>
+        <item>cshk_filmikeh_high5</item>
+        <item>cshk_filmikeh_high6</item>
+        <item>cshk_filmikeh_high7</item>
+        <item>cshk_filmikeh_high8</item>
+        <item>cshk_filmikeh_high9</item>
+    </string-array>
+    <string-array name="cshk_tevara_low_arrays">
+        <item>cshk_tevara_low1</item>
+        <item>cshk_tevara_low2</item>
+        <item>cshk_tevara_low3</item>
+        <item>cshk_tevara_low4</item>
+        <item>cshk_tevara_low5</item>
+    </string-array>
+    <string-array name="cshk_tevara_high_arrays">
+        <item>cshk_tevara_high1</item>
+        <item>cshk_tevara_high2</item>
+        <item>cshk_tevara_high3</item>
+        <item>cshk_tevara_high4</item>
+    </string-array>
+    <string-array name="cshk_tevara_pakha_arrays">
+        <item>cshk_tevara_pakha1</item>
+        <item>cshk_tevara_pakha2</item>
+        <item>cshk_tevara_pakha3</item>
+        <item>cshk_tevara_pakha4</item>
+        <item>cshk_tevara_pakha5</item>
+    </string-array>
+    <string-array name="cshk_bhajani_low_arrays">
+        <item>cshk_bhajani_low1</item>
+        <item>cshk_bhajani_low2</item>
+        <item>cshk_bhajani_low3</item>
+        <item>cshk_bhajani_low4</item>
+        <item>cshk_bhajani_low5</item>
+        <item>cshk_bhajani_low6</item>
+        <item>cshk_bhajani_low7</item>
+        <item>cshk_bhajani_low8</item>
+        <item>cshk_bhajani_low9</item>
+        <item>cshk_bhajani_low10</item>
+    </string-array> 
+    <string-array name="cshk_bhajani_high_arrays">
+        <item>cshk_bhajani_high1</item>
+        <item>cshk_bhajani_high2</item>
+        <item>cshk_bhajani_high3</item>
+        <item>cshk_bhajani_high4</item>
+        <item>cshk_bhajani_high5</item>
+        <item>cshk_bhajani_high6</item>
+        <item>cshk_bhajani_high7</item>
+        <item>cshk_bhajani_high8</item>
+        <item>cshk_bhajani_high9</item>
+        <item>cshk_bhajani_high10</item>
+        <item>cshk_bhajani_high11</item>
+        <item>cshk_bhajani_high12</item>
+        <item>cshk_bhajani_high13</item>
+        <item>cshk_bhajani_high14</item>
+        <item>cshk_bhajani_high15</item>
+        <item>cshk_bhajani_high16</item>
+        <item>cshk_bhajani_high17</item>
+    </string-array>
+    <string-array name="cshk_bhajani_pakha_arrays">
+        <item>cshk_bhajani_pakha_1</item>
+        <item>cshk_bhajani_pakha_2</item>
+        <item>cshk_bhajani_pakha_3</item>
+        <item>cshk_bhajani_pakha_4</item>
+        <item>cshk_bhajani_pakha_5</item>
+        <item>cshk_bhajani_pakha_6</item>
+    </string-array>
+    <string-array name="cshk_gandhaddha_low_arrays">
+        <item>cshk_gandhaddha_low1</item>
+        <item>cshk_gandhaddha_low2</item>
+        <item>cshk_gandhaddha_low3</item>
+    </string-array>
+    <string-array name="cshk_gandhaddha_high_arrays">
+        <item>cshk_gandhaddha_high1</item>
+        <item>cshk_gandhaddha_high2</item>
+        <item>cshk_gandhaddha_high3</item>
+    </string-array>
+    <string-array name="cshk_tilwada_low_arrays">
+        <item>cshk_tilwada_low1</item>
+        <item>cshk_tilwada_low2</item>
+        <item>cshk_tilwada_low3</item>
+        <item>cshk_tilwada_low4</item>
+    </string-array>
+    <string-array name="cshk_tilwada_high_arrays">
+        <item>cshk_tilwada_high1</item>
+        <item>cshk_tilwada_high2</item>
+        <item>cshk_tilwada_high3</item>
+        <item>cshk_tilwada_high4</item>
+        <item>cshk_tilwada_high5</item>
+        <item>cshk_tilwada_high6</item>
+    </string-array>
+    <string-array name="cshk_choutal_low_arrays">
+        <item>cshk_choutal_low1</item>
+        <item>cshk_choutal_low2</item>
+        <item>cshk_choutal_low3</item>
+        <item>cshk_choutal_low4</item>
+        <item>cshk_choutal_low5</item>
+        <item>cshk_choutal_low6</item>
+    </string-array>
+    <string-array name="cshk_choutal_high_arrays">
+        <item>cshk_choutal_high1</item>
+        <item>cshk_choutal_high2</item>
+        <item>cshk_choutal_high3</item>
+        <item>cshk_choutal_high4</item>
+        <item>cshk_choutal_high5</item>
+        <item>cshk_choutal_high6</item>
+        <item>cshk_choutal_high7</item>
+    </string-array>
+    <string-array name="cshk_choutal_pakha_arrays">
+        <item>cshk_choutal_pakha1</item>
+        <item>cshk_choutal_pakha2</item>
+        <item>cshk_choutal_pakha3</item>
+        <item>cshk_choutal_pakha4</item>
+        <item>cshk_choutal_pakha5</item>
+    </string-array>
+    <string-array name="cshk_kehrava_low_arrays">
+        <item>cshk_kehrava_low1</item>
+        <item>cshk_kehrava_low2</item>
+        <item>cshk_kehrava_low3</item>
+        <item>cshk_kehrava_low4</item>
+    </string-array> 
+    <string-array name="cshk_kehrava_high_arrays">
+        <item>cshk_kehrava_high1</item>
+        <item>cshk_kehrava_high2</item>
+        <item>cshk_kehrava_high3</item>
+        <item>cshk_kehrava_high4</item>
+        <item>cshk_kehrava_high5</item>
+        <item>cshk_kehrava_high6</item>
+        <item>cshk_kehrava_high7</item>
+        <item>cshk_kehrava_high8</item>
+        <item>cshk_kehrava_high9</item>
+        <item>cshk_kehrava_high10</item>
+        <item>cshk_kehrava_high11</item>
+        <item>cshk_kehrava_high12</item>
+    </string-array>
+    <string-array name="cshk_trital_low1_arrays">
+        <item>cshk_trital_low_drut1</item>
+        <item>cshk_trital_low_drut2</item>
+        <item>cshk_trital_low_drut3</item>
+        <item>cshk_trital_low_drut4</item>
+        <item>cshk_trital_low_drut5</item>
+        <item>cshk_trital_low_drut6</item>
+        <item>cshk_trital_low_drut7</item>
+        <item>cshk_trital_low_drut8</item>
+    </string-array>
+    <string-array name="cshk_trital_low2_arrays">
+        <item>cshk_trital_low_madhya1</item>
+        <item>cshk_trital_low_madhya2</item>
+        <item>cshk_trital_low_madhya3</item>
+        <item>cshk_trital_low_madhya4</item>
+        <item>cshk_trital_low_madhya5</item>
+        <item>cshk_trital_low_madhya6</item>
+        <item>cshk_trital_low_madhya7</item>
+        <item>cshk_trital_low_madhya8</item>
+    </string-array>
+    <string-array name="cshk_trital_low3_arrays">
+        <item>cshk_trital_low_vilambit1</item>
+        <item>cshk_trital_low_vilambit2</item>
+        <item>cshk_trital_low_vilambit3</item>
+        <item>cshk_trital_low_vilambit4</item>
+    </string-array>
+    <string-array name="cshk_trital_high1_arrays">
+        <item>cshk_trital_high_drut1</item>
+        <item>cshk_trital_high_drut2</item>
+        <item>cshk_trital_high_drut3</item>
+        <item>cshk_trital_high_drut4</item>
+        <item>cshk_trital_high_drut5</item>
+        <item>cshk_trital_high_drut6</item>
+        <item>cshk_trital_high_drut7</item>
+        <item>cshk_trital_high_drut8</item>
+        <item>cshk_trital_high_drut9</item>
+        <item>cshk_trital_high_drut10</item>
+    </string-array>
+    <string-array name="cshk_trital_high2_arrays">
+        <item>cshk_trital_high_madhya1</item>
+        <item>cshk_trital_high_madhya2</item>
+        <item>cshk_trital_high_madhya3</item>
+        <item>cshk_trital_high_madhya4</item>
+        <item>cshk_trital_high_madhya5</item>
+        <item>cshk_trital_high_madhya6</item>
+        <item>cshk_trital_high_madhya7</item>
+        <item>cshk_trital_high_madhya8</item>
+        <item>cshk_trital_high_madhya9</item>
+        <item>cshk_trital_high_madhya10</item>
+        <item>cshk_trital_high_madhya11</item>
+    </string-array>
+    <string-array name="cshk_trital_high3_arrays">
+        <item>cshk_trital_high_vilambit1</item>
+        <item>cshk_trital_high_vilambit2</item>
+        <item>cshk_trital_high_vilambit3</item>
+        <item>cshk_trital_high_vilambit4</item>
+        <item>cshk_trital_high_vilambit5</item>
+        <item>cshk_trital_high_vilambit6</item>
+        <item>cshk_trital_high_vilambit7</item>
+        <item>cshk_trital_high_vilambit8</item>
+        <item>cshk_trital_high_vilambit9</item>
+    </string-array>
+    <string-array name="cshk_dadra_low_arrays">
+        <item>cshk_dadra_low1</item>
+        <item>cshk_dadra_low2</item>
+        <item>cshk_dadra_low3</item>
+        <item>cshk_dadra_low4</item>
+        <item>cshk_dadra_low5</item>
+        <item>cshk_dadra_low6</item>
+        <item>cshk_dadra_low7</item>
+        <item>cshk_dadra_low8</item>
+        <item>cshk_dadra_low9</item>
+        <item>cshk_dadra_low10</item>
+        <item>cshk_dadra_low11</item>
+        <item>cshk_dadra_low12</item>
+    </string-array>
+    <string-array name="cshk_dadra_high_arrays">
+        <item>cshk_dadra_high1</item>
+        <item>cshk_dadra_high2</item>
+        <item>cshk_dadra_high3</item>
+        <item>cshk_dadra_high4</item>
+        <item>cshk_dadra_high5</item>
+        <item>cshk_dadra_high6</item>
+        <item>cshk_dadra_high7</item>
+        <item>cshk_dadra_high8</item>
+        <item>cshk_dadra_high9</item>
+        <item>cshk_dadra_high10</item>
+        <item>cshk_dadra_high11</item>
+        <item>cshk_dadra_high12</item>
+        <item>cshk_dadra_high13</item>
+        <item>cshk_dadra_high14</item>
+        <item>cshk_dadra_high15</item>
+        <item>cshk_dadra_high16</item>
+    </string-array>
+    <string-array name="cshk_keheravakhol_low_arrays">
+        <item>cshk_keheravakhol_low1</item>
+        <item>cshk_keheravakhol_low2</item>
+        <item>cshk_keheravakhol_low3</item>
+    </string-array>
+    <string-array name="cshk_keheravakhol_high_arrays">
+        <item>cshk_keheravakhol_high1</item>
+        <item>cshk_keheravakhol_high2</item>
+        <item>cshk_keheravakhol_high3</item>
+    </string-array>
+    <string-array name="cshk_zampa_low_arrays">
+        <item>cshk_zampa_low1</item>
+        <item>cshk_zampa_low2</item>
+    </string-array> 
+    <string-array name="cshk_zampa_high_arrays">
+        <item>cshk_zampa_high1</item>
+        <item>cshk_zampa_high2</item>
+        <item>cshk_zampa_high3</item>
+    </string-array>
+    <string-array name="cshk_dhamar_low_arrays">
+        <item>cshk_dhamar_low1</item>
+        <item>cshk_dhamar_low2</item>
+        <item>cshk_dhamar_low3</item>
+        <item>cshk_dhamar_low4</item>
+        <item>cshk_dhamar_low5</item>
+    </string-array>
+    <string-array name="cshk_dhamar_high_arrays">
+        <item>cshk_dhamar_high1</item>
+        <item>cshk_dhamar_high2</item>
+        <item>cshk_dhamar_high3</item>
+        <item>cshk_dhamar_high4</item>
+        <item>cshk_dhamar_high5</item>
+    </string-array>
+    <string-array name="cshk_dhamar_pakha_arrays">
+        <item>cshk_dhamar_pakha1</item>
+        <item>cshk_dhamar_pakha2</item>
+        <item>cshk_dhamar_pakha3</item>
+    </string-array>
+    <string-array name="cshk_khemata_low_arrays">
+        <item>cshk_khemata_low1</item>
+        <item>cshk_khemata_low2</item>
+    </string-array> 
+    <string-array name="cshk_khemata_high_arrays">
+        <item>cshk_khemata_high1</item>
+        <item>cshk_khemata_high2</item>
+        <item>cshk_khemata_high3</item>
+        <item>cshk_khemata_high4</item>
+        <item>cshk_khemata_high5</item>
+        <item>cshk_khemata_high6</item>
+        <item>cshk_khemata_high7</item>
+        <item>cshk_khemata_high8</item>
+        <item>cshk_khemata_high9</item>
+        <item>cshk_khemata_high10</item>
+        <item>cshk_khemata_high11</item>
+        <item>cshk_khemata_high12</item>
+        <item>cshk_khemata_high13</item>
+    </string-array>
+    <string-array name="cshk_zaptal_low1_arrays">
+        <item>cshk_zaptal_low_drut1</item>
+        <item>cshk_zaptal_low_drut2</item>
+        <item>cshk_zaptal_low_drut3</item>
+        <item>cshk_zaptal_low_drut4</item>
+    </string-array>
+    <string-array name="cshk_zaptal_low2_arrays">
+        <item>cshk_zaptal_low_madhya1</item>
+        <item>cshk_zaptal_low_madhya2</item>
+    </string-array> 
+    <string-array name="cshk_zaptal_low3_arrays">
+        <item>cshk_zaptal_low_vilambit1</item>
+        <item>cshk_zaptal_low_vilambit2</item>
+    </string-array>
+    <string-array name="cshk_zaptal_high1_arrays">
+        <item>cshk_zaptal_high_drut1</item>
+        <item>cshk_zaptal_high_drut2</item>
+        <item>cshk_zaptal_high_drut3</item>
+        <item>cshk_zaptal_high_drut4</item>
+        <item>cshk_zaptal_high_drut5</item>
+        <item>cshk_zaptal_high_drut6</item>
+        <item>cshk_zaptal_high_drut7</item>
+        <item>cshk_zaptal_high_drut8</item>
+        <item>cshk_zaptal_high_drut9</item>
+        <item>cshk_zaptal_high_drut10</item>
+        <item>cshk_zaptal_high_drut11</item>
+        <item>cshk_zaptal_high_drut12</item>
+    </string-array>
+    <string-array name="cshk_zaptal_high2_arrays">
+        <item>cshk_zaptal_high_madhya1</item>
+        <item>cshk_zaptal_high_madhya2</item>
+        <item>cshk_zaptal_high_madhya3</item>
+        <item>cshk_zaptal_high_madhya4</item>
+   </string-array>
+   <string-array name="cshk_zaptal_high3_arrays">
+        <item>cshk_zaptal_high_vilambit1</item>
+        <item>cshk_zaptal_high_vilambit2</item>
+        <item>cshk_zaptal_high_vilambit3</item>
+        <item>cshk_zaptal_high_vilambit4</item>
+   </string-array>
+   <string-array name="cshk_dhumali_low_arrays">
+       <item>cshk_dhumali_low1</item>
+       <item>cshk_dhumali_low2</item>
+       <item>cshk_dhumali_low3</item>
+       <item>cshk_dhumali_low4</item>
+       <item>cshk_dhumali_low5</item>
+       <item>cshk_dhumali_low6</item>
+       <item>cshk_dhumali_low7</item>
+   </string-array>
+   <string-array name="cshk_dhumali_high_arrays">
+       <item>cshk_dhumali_high1</item>
+       <item>cshk_dhumali_high2</item>
+       <item>cshk_dhumali_high3</item>
+       <item>cshk_dhumali_high4</item>
+       <item>cshk_dhumali_high5</item>
+       <item>cshk_dhumali_high6</item>
+       <item>cshk_dhumali_high7</item>
+       <item>cshk_dhumali_high8</item>
+       <item>cshk_dhumali_high9</item>
+       <item>cshk_dhumali_high10</item>
+   </string-array>
+   <string-array name="cshk_punjabiaddha_low_arrays">
+       <item>cshk_punjabiaddha_low1</item>
+       <item>cshk_punjabiaddha_low2</item>
+       <item>cshk_punjabiaddha_low3</item>
+   </string-array>
+   <string-array name="cshk_punjabiaddha_high_arrays">
+       <item>cshk_punjabiaddha_high1</item>
+       <item>cshk_punjabiaddha_high2</item>
+       <item>cshk_punjabiaddha_high3</item>
+       <item>cshk_punjabiaddha_high4</item>
+       <item>cshk_punjabiaddha_high5</item>
+       <item>cshk_punjabiaddha_high6</item>
+   </string-array>
+   <string-array name="cshk_zumara_low_arrays">
+       <item>cshk_zumara_low1</item>
+       <item>cshk_zumara_low2</item>
+       <item>cshk_zumara_low3</item>
+       <item>cshk_zumara_low4</item>
+       <item>cshk_zumara_low5</item>
+       <item>cshk_zumara_low6</item>
+   </string-array>
+   <string-array name="cshk_zumara_high_arrays">
+       <item>cshk_zumara_high1</item>
+       <item>cshk_zumara_high2</item>
+       <item>cshk_zumara_high3</item>
+       <item>cshk_zumara_high4</item>
+       <item>cshk_zumara_high5</item>
+       <item>cshk_zumara_high6</item>
+       <item>cshk_zumara_high7</item>
+       <item>cshk_zumara_high8</item>
+       <item>cshk_zumara_high9</item>
+       <item>cshk_zumara_high10</item>
+   </string-array>
+   <string-array name="cshk_dipchandi_low_arrays">
+       <item>cshk_dipchandi_low1</item>
+       <item>cshk_dipchandi_low2</item>
+       <item>cshk_dipchandi_low3</item>
+       <item>cshk_dipchandi_low4</item>
+       <item>cshk_dipchandi_low5</item>
+       <item>cshk_dipchandi_low6</item>
+       <item>cshk_dipchandi_low7</item>
+       <item>cshk_dipchandi_low8</item>
+       <item>cshk_dipchandi_low9</item>
+   </string-array> 
+   <string-array name="cshk_dipchandi_high_arrays">
+       <item>cshk_dipchandi_high1</item>
+       <item>cshk_dipchandi_high2</item>
+       <item>cshk_dipchandi_high3</item>
+       <item>cshk_dipchandi_high4</item>
+       <item>cshk_dipchandi_high5</item>
+       <item>cshk_dipchandi_high6</item>
+       <item>cshk_dipchandi_high7</item>
+       <item>cshk_dipchandi_high8</item>
+       <item>cshk_dipchandi_high9</item>
+       <item>cshk_dipchandi_high10</item>
+       <item>cshk_dipchandi_high11</item>
+       <item>cshk_dipchandi_high12</item>
+       <item>cshk_dipchandi_high13</item>
+       <item>cshk_dipchandi_high14</item>
+   </string-array>
+   <string-array name="cshk_rupak_low1_arrays">
+       <item>cshk_rupak_low_drut1</item>
+       <item>cshk_rupak_low_drut2</item>
+       <item>cshk_rupak_low_drut3</item>
+   </string-array> 
+   <string-array name="cshk_rupak_low2_arrays">
+       <item>cshk_rupak_low_madhya1</item>
+       <item>cshk_rupak_low_madhya2</item>
+   </string-array> 
+   <string-array name="cshk_rupak_low3_arrays">
+       <item>cshk_rupak_low_vilambit1</item>
+       <item>cshk_rupak_low_vilambit2</item>
+   </string-array>
+   <string-array name="cshk_rupak_high1_arrays">
+       <item>cshk_rupak_high_drut1</item>
+       <item>cshk_rupak_high_drut2</item>
+       <item>cshk_rupak_high_drut3</item>
+       <item>cshk_rupak_high_drut4</item>
+       <item>cshk_rupak_high_drut5</item>
+       <item>cshk_rupak_high_drut6</item>
+   </string-array>
+   <string-array name="cshk_rupak_high2_arrays">
+       <item>cshk_rupak_high_madhya1</item>
+       <item>cshk_rupak_high_madhya2</item>
+       <item>cshk_rupak_high_madhya3</item>
+       <item>cshk_rupak_high_madhya4</item>
+       <item>cshk_rupak_high_madhya5</item>
+   </string-array>
+   <string-array name="cshk_rupak_high3_arrays">
+       <item>cshk_rupak_high_vilambit1</item>
+       <item>cshk_rupak_high_vilambit2</item>
+       <item>cshk_rupak_high_vilambit3</item>
+       <item>cshk_rupak_high_vilambit4</item>
+   </string-array>
+   <string-array name="dshk_ada_low1_arrays">
+        <item>dshk_ada_low_drut1</item>
+    </string-array> 
+    <string-array name="dshk_ada_low2_arrays">
+        <item>dshk_ada_low_madhya1</item>
+        <item>dshk_ada_low_madhya2</item>
+    </string-array> 
+    <string-array name="dshk_ada_low3_arrays">
+        <item>dshk_ada_low_vilambit1</item>
+        <item>dshk_ada_low_vilambit2</item>
+    </string-array>
+    <string-array name="dshk_ada_high1_arrays">
+        <item>dshk_ada_high_drut1</item>
+    </string-array>
+    <string-array name="dshk_ada_high2_arrays">
+        <item>dshk_ada_high_madhya1</item>
+        <item>dshk_ada_high_madhya2</item>
+    </string-array>
+    <string-array name="dshk_ada_high3_arrays">
+        <item>dshk_ada_high_vilambit1</item>
+        <item>dshk_ada_high_vilambit2</item>
+    </string-array>
+     <string-array name="dshk_ekt_low1_arrays">
+        <item>dshk_ekt_low_drut1</item>
+        <item>dshk_ekt_low_drut2</item>
+        <item>dshk_ekt_low_drut3</item>
+        <item>dshk_ekt_low_drut4</item>
+        <item>dshk_ekt_low_drut5</item>
+    </string-array>
+    <string-array name="dshk_ekt_low2_arrays">
+        <item>dshk_ekt_low_madhya1</item>
+        <item>dshk_ekt_low_madhya2</item>
+        <item>dshk_ekt_low_madhya3</item>
+        <item>dshk_ekt_low_madhya4</item>
+        <item>dshk_ekt_low_madhya5</item>
+        <item>dshk_ekt_low_madhya6</item>
+        <item>dshk_ekt_low_madhya7</item>
+    </string-array>
+    <string-array name="dshk_ekt_low3_arrays">
+        <item>dshk_ekt_low_vilambit1</item>
+        <item>dshk_ekt_low_vilambit2</item>
+        <item>dshk_ekt_low_vilambit3</item>
+        <item>dshk_ekt_low_vilambit4</item>
+        <item>dshk_ekt_low_vilambit5</item>
+        <item>dshk_ekt_low_vilambit6</item>
+        <item>dshk_ekt_low_vilambit7</item>
+        <item>dshk_ekt_low_vilambit8</item>
+    </string-array>
+    <string-array name="dshk_ekt_high1_arrays">
+        <item>dshk_ekt_high_drut1</item>
+        <item>dshk_ekt_high_drut2</item>
+        <item>dshk_ekt_high_drut3</item>
+    </string-array>
+    <string-array name="dshk_ekt_high2_arrays">
+        <item>dshk_ekt_high_madhya1</item>
+        <item>dshk_ekt_high_madhya2</item>
+        <item>dshk_ekt_high_madhya3</item>
+        <item>dshk_ekt_high_madhya4</item>
+    </string-array> 
+     <string-array name="dshk_ekt_high3_arrays">
+        <item>dshk_ekt_high_vilambit1</item>
+        <item>dshk_ekt_high_vilambit2</item>
+        <item>dshk_ekt_high_vilambit3</item>
+        <item>dshk_ekt_high_vilambit4</item>
+    </string-array>
+    <string-array name="dshk_sul_low_arrays">
+        <item>dshk_sul_low1</item>
+        <item>dshk_sul_low2</item>
+        <item>dshk_sul_low3</item>
+    </string-array>
+    <string-array name="dshk_sul_high_arrays">
+        <item>dshk_sul_high1</item>
+        <item>dshk_sul_high2</item>
+        <item>dshk_sul_high3</item>
+    </string-array>
+    <string-array name="dshk_addha_low_arrays">
+        <item>dshk_addha_low1</item>
+        <item>dshk_addha_low2</item>
+        <item>dshk_addha_low3</item>
+        <item>dshk_addha_low4</item>
+        <item>dshk_addha_low5</item>
+        <item>dshk_addha_low6</item>
+        <item>dshk_addha_low7</item>
+    </string-array> 
+    <string-array name="dshk_addha_high_arrays">
+        <item>dshk_addha_high1</item>
+        <item>dshk_addha_high2</item>
+        <item>dshk_addha_high3</item>
+        <item>dshk_addha_high4</item>
+        <item>dshk_addha_high5</item>
+    </string-array>
+    <string-array name="dshk_filmikeh_low_arrays">
+        <item>dshk_filmikeh_low1</item>
+        <item>dshk_filmikeh_low2</item>
+        <item>dshk_filmikeh_low3</item>
+        <item>dshk_filmikeh_low4</item>
+        <item>dshk_filmikeh_low5</item>
+        <item>dshk_filmikeh_low6</item>
+    </string-array>
+    <string-array name="dshk_filmikeh_high_arrays">
+        <item>dshk_filmikeh_high1</item>
+        <item>dshk_filmikeh_high2</item>
+        <item>dshk_filmikeh_high3</item>
+        <item>dshk_filmikeh_high4</item>
+        <item>dshk_filmikeh_high5</item>
+    </string-array>
+    <string-array name="dshk_tevara_low_arrays">
+        <item>dshk_tevara_low1</item>
+        <item>dshk_tevara_low2</item>
+        <item>dshk_tevara_low3</item>
+    </string-array>
+    <string-array name="dshk_tevara_high_arrays">
+        <item>dshk_tevara_high1</item>
+        <item>dshk_tevara_high2</item>
+        <item>dshk_tevara_high3</item>
+    </string-array>
+    <string-array name="dshk_bhajani_low_arrays">
+        <item>dshk_bhajani_low1</item>
+        <item>dshk_bhajani_low2</item>
+        <item>dshk_bhajani_low3</item>
+        <item>dshk_bhajani_low4</item>
+        <item>dshk_bhajani_low5</item>
+        <item>dshk_bhajani_low6</item>
+        <item>dshk_bhajani_low7</item>
+        <item>dshk_bhajani_low8</item>
+    </string-array> 
+    <string-array name="dshk_bhajani_high_arrays">
+        <item>dshk_bhajani_high1</item>
+        <item>dshk_bhajani_high2</item>
+        <item>dshk_bhajani_high3</item>
+        <item>dshk_bhajani_high4</item>
+        <item>dshk_bhajani_high5</item>
+        <item>dshk_bhajani_high6</item>
+    </string-array>
+    <string-array name="dshk_bhajani_pakha_arrays">
+        <item>dshk_bhajani_pakha_1</item>
+        <item>dshk_bhajani_pakha_2</item>
+        <item>dshk_bhajani_pakha_3</item>
+        <item>dshk_bhajani_pakha_4</item>
+        <item>dshk_bhajani_pakha_5</item>
+        <item>dshk_bhajani_pakha_6</item>
+        <item>dshk_bhajani_pakha_7</item>
+        <item>dshk_bhajani_pakha_8</item>
+    </string-array>
+    <string-array name="dshk_gandhaddha_low_arrays">
+        <item>dshk_gandhaddha_low1</item>
+        <item>dshk_gandhaddha_low2</item>
+    </string-array>
+    <string-array name="dshk_gandhaddha_high_arrays">
+        <item>dshk_gandhaddha_high1</item>
+        <item>dshk_gandhaddha_high2</item>
+    </string-array>
+    <string-array name="dshk_tilwada_low_arrays">
+        <item>dshk_tilwada_low1</item>
+        <item>dshk_tilwada_low2</item>
+        <item>dshk_tilwada_low3</item>
+        <item>dshk_tilwada_low4</item>
+        <item>dshk_tilwada_low5</item>
+        <item>dshk_tilwada_low6</item>
+    </string-array>
+    <string-array name="dshk_tilwada_high_arrays">
+        <item>dshk_tilwada_high1</item>
+        <item>dshk_tilwada_high2</item>
+        <item>dshk_tilwada_high3</item>
+    </string-array>
+    <string-array name="dshk_choutal_low_arrays">
+        <item>dshk_choutal_low1</item>
+        <item>dshk_choutal_low2</item>
+        <item>dshk_choutal_low3</item>
+        <item>dshk_choutal_low4</item>
+    </string-array>
+    <string-array name="dshk_choutal_high_arrays">
+        <item>dshk_choutal_high1</item>
+        <item>dshk_choutal_high2</item>
+        <item>dshk_choutal_high3</item>
+    </string-array>
+    <string-array name="dshk_kehrava_low_arrays">
+        <item>dshk_kehrava_low1</item>
+        <item>dshk_kehrava_low2</item>
+        <item>dshk_kehrava_low3</item>
+        <item>dshk_kehrava_low4</item>
+        <item>dshk_kehrava_low5</item>
+        <item>dshk_kehrava_low6</item>
+        <item>dshk_kehrava_low7</item>
+    </string-array> 
+    <string-array name="dshk_kehrava_high_arrays">
+        <item>dshk_kehrava_high1</item>
+        <item>dshk_kehrava_high2</item>
+        <item>dshk_kehrava_high3</item>
+    </string-array>
+    <string-array name="dshk_trital_low1_arrays">
+        <item>dshk_trital_low_drut1</item>
+        <item>dshk_trital_low_drut2</item>
+        <item>dshk_trital_low_drut3</item>
+        <item>dshk_trital_low_drut4</item>
+        <item>dshk_trital_low_drut5</item>
+        <item>dshk_trital_low_drut6</item>
+        <item>dshk_trital_low_drut7</item>
+        <item>dshk_trital_low_drut8</item>
+        <item>dshk_trital_low_drut9</item>
+    </string-array>
+    <string-array name="dshk_trital_low2_arrays">
+        <item>dshk_trital_low_madhya1</item>
+        <item>dshk_trital_low_madhya2</item>
+        <item>dshk_trital_low_madhya3</item>
+        <item>dshk_trital_low_madhya4</item>
+        <item>dshk_trital_low_madhya5</item>
+        <item>dshk_trital_low_madhya6</item>
+        <item>dshk_trital_low_madhya7</item>
+        <item>dshk_trital_low_madhya8</item>
+        <item>dshk_trital_low_madhya9</item>
+    </string-array>
+    <string-array name="dshk_trital_low3_arrays">
+        <item>dshk_trital_low_vilambit1</item>
+        <item>dshk_trital_low_vilambit2</item>
+        <item>dshk_trital_low_vilambit3</item>
+        <item>dshk_trital_low_vilambit4</item>
+        <item>dshk_trital_low_vilambit5</item>
+    </string-array>
+    <string-array name="dshk_trital_high1_arrays">
+        <item>dshk_trital_high_drut1</item>
+        <item>dshk_trital_high_drut2</item>
+        <item>dshk_trital_high_drut3</item>
+        <item>dshk_trital_high_drut4</item>
+        <item>dshk_trital_high_drut5</item>
+        <item>dshk_trital_high_drut6</item>
+    </string-array>
+    <string-array name="dshk_trital_high2_arrays">
+        <item>dshk_trital_high_madhya1</item>
+        <item>dshk_trital_high_madhya2</item>
+        <item>dshk_trital_high_madhya3</item>
+        <item>dshk_trital_high_madhya4</item>
+        <item>dshk_trital_high_madhya5</item>
+    </string-array>
+    <string-array name="dshk_trital_high3_arrays">
+        <item>dshk_trital_high_vilambit1</item>
+        <item>dshk_trital_high_vilambit2</item>
+        <item>dshk_trital_high_vilambit3</item>
+        <item>dshk_trital_high_vilambit4</item>
+    </string-array>
+    <string-array name="dshk_dadra_low_arrays">
+        <item>dshk_dadra_low1</item>
+        <item>dshk_dadra_low2</item>
+        <item>dshk_dadra_low3</item>
+        <item>dshk_dadra_low4</item>
+        <item>dshk_dadra_low5</item>
+        <item>dshk_dadra_low6</item>
+        <item>dshk_dadra_low7</item>
+    </string-array>
+    <string-array name="dshk_dadra_high_arrays">
+        <item>dshk_dadra_high1</item>
+        <item>dshk_dadra_high2</item>
+        <item>dshk_dadra_high3</item>
+        <item>dshk_dadra_high4</item>
+    </string-array>
+    <string-array name="dshk_keheravakhol_low_arrays">
+        <item>dshk_keheravakhol_low1</item>
+        <item>dshk_keheravakhol_low2</item>
+    </string-array>
+    <string-array name="dshk_keheravakhol_high_arrays">
+        <item>dshk_keheravakhol_high1</item>
+        <item>dshk_keheravakhol_high2</item>
+        <item>dshk_keheravakhol_high3</item>
+        <item>dshk_keheravakhol_high4</item>
+    </string-array>
+    <string-array name="dshk_zampa_low_arrays">
+        <item>dshk_zampa_low1</item>
+        <item>dshk_zampa_low2</item>
+    </string-array> 
+    <string-array name="dshk_zampa_high_arrays">
+        <item>dshk_zampa_high1</item>
+        <item>dshk_zampa_high2</item>
+    </string-array>
+    <string-array name="dshk_dhamar_low_arrays">
+        <item>dshk_dhamar_low1</item>
+        <item>dshk_dhamar_low2</item>
+        <item>dshk_dhamar_low3</item>
+        <item>dshk_dhamar_low4</item>
+    </string-array>
+    <string-array name="dshk_dhamar_high_arrays">
+        <item>dshk_dhamar_high1</item>
+        <item>dshk_dhamar_high2</item>
+        <item>dshk_dhamar_high3</item>
+    </string-array>
+    <string-array name="dshk_khemata_low_arrays">
+        <item>dshk_khemata_low1</item>
+        <item>dshk_khemata_low2</item>
+    </string-array> 
+    <string-array name="dshk_zaptal_low1_arrays">
+        <item>dshk_zaptal_low_drut1</item>
+        <item>dshk_zaptal_low_drut2</item>
+        <item>dshk_zaptal_low_drut3</item>
+        <item>dshk_zaptal_low_drut4</item>
+        <item>dshk_zaptal_low_drut5</item>
+    </string-array>
+    <string-array name="dshk_zaptal_low2_arrays">
+        <item>dshk_zaptal_low_madhya1</item>
+    </string-array> 
+    <string-array name="dshk_zaptal_low3_arrays">
+        <item>dshk_zaptal_low_vilambit1</item>
+        <item>dshk_zaptal_low_vilambit2</item>
+    </string-array>
+    <string-array name="dshk_zaptal_high1_arrays">
+        <item>dshk_zaptal_high_drut1</item>
+        <item>dshk_zaptal_high_drut2</item>
+        <item>dshk_zaptal_high_drut3</item>
+    </string-array>
+    <string-array name="dshk_zaptal_high2_arrays">
+        <item>dshk_zaptal_high_madhya1</item>
+   </string-array>
+   <string-array name="dshk_zaptal_high3_arrays">
+        <item>dshk_zaptal_high_vilambit1</item>
+        <item>dshk_zaptal_high_vilambit2</item>
+        <item>dshk_zaptal_high_vilambit3</item>
+   </string-array>
+   <string-array name="dshk_dhumali_low_arrays">
+       <item>dshk_dhumali_low1</item>
+       <item>dshk_dhumali_low2</item>
+       <item>dshk_dhumali_low3</item>
+       <item>dshk_dhumali_low4</item>
+       <item>dshk_dhumali_low5</item>
+       <item>dshk_dhumali_low6</item>
+       <item>dshk_dhumali_low7</item>
+       <item>dshk_dhumali_low8</item>
+       <item>dshk_dhumali_low9</item>
+   </string-array>
+   <string-array name="dshk_dhumali_high_arrays">
+       <item>dshk_dhumali_high1</item>
+       <item>dshk_dhumali_high2</item>
+       <item>dshk_dhumali_high3</item>
+       <item>dshk_dhumali_high4</item>
+       <item>dshk_dhumali_high5</item>
+       <item>dshk_dhumali_high6</item>
+   </string-array>
+   <string-array name="dshk_punjabiaddha_low_arrays">
+       <item>dshk_punjabiaddha_low1</item>
+       <item>dshk_punjabiaddha_low2</item>
+   </string-array>
+   <string-array name="dshk_punjabiaddha_high_arrays">
+       <item>dshk_punjabiaddha_high1</item>
+       <item>dshk_punjabiaddha_high2</item>
+   </string-array>
+   <string-array name="dshk_zumara_low_arrays">
+       <item>dshk_zumara_low1</item>
+       <item>dshk_zumara_low2</item>
+       <item>dshk_zumara_low3</item>
+       <item>dshk_zumara_low4</item>
+   </string-array>
+   <string-array name="dshk_zumara_high_arrays">
+       <item>dshk_zumara_high1</item>
+       <item>dshk_zumara_high2</item>
+       <item>dshk_zumara_high3</item>
+       <item>dshk_zumara_high4</item>
+       <item>dshk_zumara_high5</item>
+       <item>dshk_zumara_high6</item>
+   </string-array>
+   <string-array name="dshk_dipchandi_low_arrays">
+       <item>dshk_dipchandi_low1</item>
+       <item>dshk_dipchandi_low2</item>
+       <item>dshk_dipchandi_low3</item>
+       <item>dshk_dipchandi_low4</item>
+       <item>dshk_dipchandi_low5</item>
+       <item>dshk_dipchandi_low6</item>
+       <item>dshk_dipchandi_low7</item>
+       <item>dshk_dipchandi_low8</item>
+   </string-array> 
+   <string-array name="dshk_dipchandi_high_arrays">
+       <item>dshk_dipchandi_high1</item>
+       <item>dshk_dipchandi_high2</item>
+       <item>dshk_dipchandi_high3</item>
+       <item>dshk_dipchandi_high4</item>
+       <item>dshk_dipchandi_high5</item>
+       <item>dshk_dipchandi_high6</item>
+       <item>dshk_dipchandi_high7</item>
+   </string-array>
+   <string-array name="dshk_rupak_low1_arrays">
+       <item>dshk_rupak_low_drut1</item>
+       <item>dshk_rupak_low_drut2</item>
+       <item>dshk_rupak_low_drut3</item>
+       <item>dshk_rupak_low_drut4</item>
+       <item>dshk_rupak_low_drut5</item>
+   </string-array> 
+   <string-array name="dshk_rupak_low2_arrays">
+       <item>dshk_rupak_low_madhya1</item>
+       <item>dshk_rupak_low_madhya2</item>
+       <item>dshk_rupak_low_madhya3</item>
+       <item>dshk_rupak_low_madhya4</item>
+       <item>dshk_rupak_low_madhya5</item>
+   </string-array> 
+   <string-array name="dshk_rupak_low3_arrays">
+       <item>dshk_rupak_low_vilambit1</item>
+       <item>dshk_rupak_low_vilambit2</item>
+   </string-array>
+   <string-array name="dshk_rupak_high1_arrays">
+       <item>dshk_rupak_high_drut1</item>
+       <item>dshk_rupak_high_drut2</item>
+   </string-array>
+   <string-array name="dshk_rupak_high2_arrays">
+       <item>dshk_rupak_high_madhya1</item>
+       <item>dshk_rupak_high_madhya2</item>
+       <item>dshk_rupak_high_madhya3</item>
+   </string-array>
+   <string-array name="fshk_rupak_high3_arrays">
+       <item>dshk_rupak_high_vilambit1</item>
+       <item>dshk_rupak_high_vilambit2</item>
+       <item>dshk_rupak_high_vilambit3</item>
+   </string-array>
+   <string-array name="fshk_ada_low1_arrays">
+        <item>fshk_ada_low_drut1</item>
+        <item>fshk_ada_low_drut2</item>
+        <item>fshk_ada_low_drut3</item>
+        <item>fshk_ada_low_drut4</item>
+        <item>fshk_ada_low_drut5</item>
+        <item>fshk_ada_low_drut6</item>
+    </string-array> 
+    <string-array name="fshk_ada_low2_arrays">
+        <item>fshk_ada_low_madhya1</item>
+        <item>fshk_ada_low_madhya2</item>
+    </string-array> 
+    <string-array name="fshk_ada_low3_arrays">
+        <item>fshk_ada_low_vilambit1</item>
+        <item>fshk_ada_low_vilambit2</item>
+    </string-array>
+    <string-array name="fshk_dipchandi_low_arrays">
+       <item>fshk_dipchandi_low1</item>
+       <item>fshk_dipchandi_low2</item>
+       <item>fshk_dipchandi_low3</item>
+       <item>fshk_dipchandi_low4</item>
+       <item>fshk_dipchandi_low5</item>
+       <item>fshk_dipchandi_low6</item>
+       <item>fshk_dipchandi_low7</item>
+       <item>fshk_dipchandi_low8</item>
+       <item>fshk_dipchandi_low9</item>
+       <item>fshk_dipchandi_low10</item>
+       <item>fshk_dipchandi_low11</item>
+       <item>fshk_dipchandi_low12</item>
+       <item>fshk_dipchandi_low13</item>
+       <item>fshk_dipchandi_low14</item>
+       <item>fshk_dipchandi_low15</item>
+       <item>fshk_dipchandi_low16</item>
+   </string-array>
+   <string-array name="fshk_tilwada_low_arrays">
+        <item>fshk_tilwada_low1</item>
+        <item>fshk_tilwada_low2</item>
+        <item>fshk_tilwada_low3</item>
+        <item>fshk_tilwada_low4</item>
+        <item>fshk_tilwada_low5</item>
+        <item>fshk_tilwada_low6</item>
+    </string-array>
+    <string-array name="fshk_addha_low_arrays">
+        <item>fshk_addha_low1</item>
+        <item>fshk_addha_low2</item>
+        <item>fshk_addha_low3</item>
+        <item>fshk_addha_low4</item>
+        <item>fshk_addha_low5</item>
+        <item>fshk_addha_low6</item>
+        <item>fshk_addha_low7</item>
+        <item>fshk_addha_low8</item>
+        <item>fshk_addha_low9</item>
+    </string-array>  
+     <string-array name="fshk_ekt_low1_arrays">
+        <item>fshk_ekt_low_drut1</item>
+        <item>fshk_ekt_low_drut2</item>
+        <item>fshk_ekt_low_drut3</item>
+        <item>fshk_ekt_low_drut4</item>
+        <item>fshk_ekt_low_drut5</item>
+        <item>fshk_ekt_low_drut6</item>
+        <item>fshk_ekt_low_drut7</item>
+        <item>fshk_ekt_low_drut8</item>
+    </string-array>
+    <string-array name="fshk_ekt_low2_arrays">
+        <item>fshk_ekt_low_madhya1</item>
+        <item>fshk_ekt_low_madhya2</item>
+        <item>fshk_ekt_low_madhya3</item>
+        <item>fshk_ekt_low_madhya4</item>
+        <item>fshk_ekt_low_madhya5</item>
+        <item>fshk_ekt_low_madhya6</item>
+    </string-array>
+    <string-array name="fshk_ekt_low3_arrays">
+        <item>fshk_ekt_low_vilambit1</item>
+        <item>fshk_ekt_low_vilambit2</item>
+        <item>fshk_ekt_low_vilambit3</item>
+        <item>fshk_ekt_low_vilambit4</item>
+        <item>fshk_ekt_low_vilambit5</item>
+        <item>fshk_ekt_low_vilambit6</item>
+        <item>fshk_ekt_low_vilambit7</item>
+        <item>fshk_ekt_low_vilambit8</item>
+    </string-array>
+    <string-array name="fshk_trital_low1_arrays">
+        <item>fshk_trital_high_drut1</item>
+        <item>fshk_trital_high_drut2</item>
+        <item>fshk_trital_high_drut3</item>
+        <item>fshk_trital_high_drut4</item>
+        <item>fshk_trital_high_drut5</item>
+        <item>fshk_trital_high_drut6</item>
+        <item>fshk_trital_high_drut7</item>
+        <item>fshk_trital_high_drut8</item>
+        <item>fshk_trital_high_drut9</item>
+        <item>fshk_trital_high_drut10</item>
+        <item>fshk_trital_high_drut11</item>
+        <item>fshk_trital_high_drut12</item>
+        <item>fshk_trital_high_drut13</item>
+        <item>fshk_trital_high_drut14</item>
+    </string-array>
+    <string-array name="fshk_trital_low2_arrays">
+        <item>fshk_trital_high_madhya1</item>
+        <item>fshk_trital_high_madhya2</item>
+        <item>fshk_trital_high_madhya3</item>
+        <item>fshk_trital_high_madhya4</item>
+        <item>fshk_trital_high_madhya5</item>
+    </string-array>
+    <string-array name="fshk_trital_low3_arrays">
+        <item>fshk_trital_high_vilambit1</item>
+        <item>fshk_trital_high_vilambit2</item>
+        <item>fshk_trital_high_vilambit3</item>
+        <item>fshk_trital_high_vilambit4</item>
+        <item>fshk_trital_high_vilambit5</item>
+        <item>fshk_trital_high_vilambit6</item>
+        <item>fshk_trital_high_vilambit7</item>
+    </string-array>
+    <string-array name="fshk_bhajani_low_arrays">
+        <item>fshk_bhajani_low1</item>
+        <item>fshk_bhajani_low2</item>
+        <item>fshk_bhajani_low3</item>
+        <item>fshk_bhajani_low4</item>
+        <item>fshk_bhajani_low5</item>
+        <item>fshk_bhajani_low6</item>
+        <item>fshk_bhajani_low7</item>
+        <item>fshk_bhajani_low8</item>
+        <item>fshk_bhajani_low9</item>
+        <item>fshk_bhajani_low10</item>
+        <item>fshk_bhajani_low11</item>
+        <item>fshk_bhajani_low12</item>
+        <item>fshk_bhajani_low13</item>
+        <item>fshk_bhajani_low14</item>
+    </string-array>
+    <string-array name="fshk_kehrava_low_arrays">
+        
+    </string-array>
+    <string-array name="fshk_zaptal_low1_arrays">
+        <item>fshk_zaptal_low_drut1</item>
+        <item>fshk_zaptal_low_drut2</item>
+        <item>fshk_zaptal_low_drut3</item>
+        <item>fshk_zaptal_low_drut4</item>
+        <item>fshk_zaptal_low_drut5</item>
+        <item>fshk_zaptal_low_drut6</item>
+        <item>fshk_zaptal_low_drut7</item>
+        <item>fshk_zaptal_low_drut8</item>
+        <item>fshk_zaptal_low_drut9</item>
+    </string-array>
+    <string-array name="fshk_zaptal_low2_arrays">
+        <item>fshk_zaptal_low_madhya1</item>
+        <item>fshk_zaptal_low_madhya2</item>
+        <item>fshk_zaptal_low_madhya3</item>
+        <item>fshk_zaptal_low_madhya4</item>
+    </string-array> 
+    <string-array name="fshk_zaptal_low3_arrays">
+        <item>fshk_zaptal_low_vilambit1</item>
+        <item>fshk_zaptal_low_vilambit2</item>
+        <item>fshk_zaptal_low_vilambit3</item>
+        <item>fshk_zaptal_low_vilambit4</item>
+    </string-array> 
+    <string-array name="fshk_dadra_low_arrays">
+        
+    </string-array>
+    <string-array name="fshk_mattatal_low_arrays">
+        <item>fshk_mattatal_low1</item>
+        <item>fshk_mattatal_low2</item>
+        <item>fshk_mattatal_low3</item>
+        <item>fshk_mattatal_low4</item>
+        <item>fshk_mattatal_low5</item>
+        <item>fshk_mattatal_low6</item>
+        <item>fshk_mattatal_low7</item>
+        <item>fshk_mattatal_low8</item>
+    </string-array>
+    <string-array name="fshk_zumara_low_arrays">
+       <item>fshk_zumara_low1</item>
+       <item>fshk_zumara_low2</item>
+       <item>fshk_zumara_low3</item>
+       <item>fshk_zumara_low4</item>
+       <item>fshk_zumara_low5</item>
+       <item>fshk_zumara_low6</item>
+       <item>fshk_zumara_low7</item>
+       <item>fshk_zumara_low8</item>
+   </string-array> 
+   <string-array name="fshk_dhumali_low_arrays">
+       <item>fshk_dhumali_low1</item>
+       <item>fshk_dhumali_low2</item>
+   </string-array>
+   <string-array name="fshk_rupak_low1_arrays">
+       <item>fshk_rupak_low_drut1</item>
+       <item>fshk_rupak_low_drut2</item>
+       <item>fshk_rupak_low_drut3</item>
+       <item>fshk_rupak_low_drut4</item>
+       <item>fshk_rupak_low_drut5</item>
+       <item>fshk_rupak_low_drut6</item>
+       <item>fshk_rupak_low_drut7</item>
+       <item>fshk_rupak_low_drut8</item>
+   </string-array> 
+   <string-array name="fshk_rupak_low2_arrays">
+       <item>fshk_rupak_low_madhya1</item>
+       <item>fshk_rupak_low_madhya2</item>
+       <item>fshk_rupak_low_madhya3</item>
+       <item>fshk_rupak_low_madhya4</item>
+       <item>fshk_rupak_low_madhya5</item>
+       <item>fshk_rupak_low_madhya6</item>
+       <item>fshk_rupak_low_madhya7</item>
+       <item>fshk_rupak_low_madhya8</item>
+       <item>fshk_rupak_low_madhya9</item>
+       <item>fshk_rupak_low_madhya10</item>
+       <item>fshk_rupak_low_madhya11</item>
+       <item>fshk_rupak_low_madhya12</item>
+   </string-array> 
+   <string-array name="fshk_rupak_low3_arrays">
+       <item>fshk_rupak_low_vilambit1</item>
+       <item>fshk_rupak_low_vilambit2</item>
+       <item>fshk_rupak_low_vilambit3</item>
+       <item>fshk_rupak_low_vilambit4</item>
+       <item>fshk_rupak_low_vilambit5</item>
+       <item>fshk_rupak_low_vilambit6</item>
+       <item>fshk_rupak_low_vilambit7</item>
+   </string-array>
+   <string-array name="gshk_ada1_arrays">
+        <item>gshk_ada_drut1</item>
+        <item>gshk_ada_drut2</item>
+        <item>gshk_ada_drut3</item>
+        <item>gshk_ada_drut4</item>
+        <item>gshk_ada_drut5</item>
+    </string-array>
+    <string-array name="gshk_ada2_arrays">
+        <item>gshk_ada_madhya1</item>
+        <item>gshk_ada_madhya2</item>
+        <item>gshk_ada_madhya3</item>
+        <item>gshk_ada_madhya4</item>
+        <item>gshk_ada_madhya5</item>
+        <item>gshk_ada_madhya6</item>
+    </string-array>
+    <string-array name="gshk_ada3_arrays">
+        <item>gshk_ada_vilambit1</item>
+        <item>gshk_ada_vilambit2</item>
+        <item>gshk_ada_vilambit3</item>
+        <item>gshk_ada_vilambit4</item>
+        <item>gshk_ada_vilambit5</item>
+        <item>gshk_ada_vilambit6</item>
+        <item>gshk_ada_vilambit7</item>
+        <item>gshk_ada_vilambit8</item>
+        <item>gshk_ada_vilambit9</item>
+    </string-array>
+    <string-array name="gshk_ekt1_arrays">
+        <item>gshk_ekt_low_drut1</item>
+        <item>gshk_ekt_low_drut2</item>
+        <item>gshk_ekt_low_drut3</item>
+        <item>gshk_ekt_low_drut4</item>
+        <item>gshk_ekt_low_drut5</item>
+        <item>gshk_ekt_low_drut6</item>
+    </string-array>
+    <string-array name="gshk_ekt2_arrays">
+        <item>gshk_ekt_low_madhya1</item>
+        <item>gshk_ekt_low_madhya2</item>
+        <item>gshk_ekt_low_madhya3</item>
+        <item>gshk_ekt_low_madhya4</item>
+    </string-array>
+    <string-array name="gshk_ekt3_arrays">
+        <item>gshk_ekt_low_vilambit1</item>
+        <item>gshk_ekt_low_vilambit2</item>
+        <item>gshk_ekt_low_vilambit3</item>
+        <item>gshk_ekt_low_vilambit4</item>
+        <item>gshk_ekt_low_vilambit5</item>
+        <item>gshk_ekt_low_vilambit6</item>
+        <item>gshk_ekt_low_vilambit7</item>
+        <item>gshk_ekt_low_vilambit8</item>
+        <item>gshk_ekt_low_vilambit9</item>
+        <item>gshk_ekt_low_vilambit10</item>
+        <item>gshk_ekt_low_vilambit11</item>
+    </string-array>
+    <string-array name="gshk_sul_arrays">
+        <item>gshk_sul1</item>
+        <item>gshk_sul2</item>
+    </string-array>
+    <string-array name="gshk_addha_arrays">
+        <item>gshk_addha1</item>
+        <item>gshk_addha2</item>
+        <item>gshk_addha3</item>
+        <item>gshk_addha4</item>
+        <item>gshk_addha5</item>
+        <item>gshk_addha6</item>
+        <item>gshk_addha7</item>
+        <item>gshk_addha8</item>
+        <item>gshk_addha9</item>
+        <item>gshk_addha10</item>
+        <item>gshk_addha11</item>
+        <item>gshk_addha12</item>
+        <item>gshk_addha13</item>
+        <item>gshk_addha14</item>
+        <item>gshk_addha15</item>
+    </string-array> 
+    <string-array name="gshk_filmikeh_arrays">
+        <item>gshk_filmikeh1</item>
+        <item>gshk_filmikeh2</item>
+        <item>gshk_filmikeh3</item>
+    </string-array>
+    <string-array name="gshk_tevara_arrays">
+        <item>gshk_tevara_low1</item>
+        <item>gshk_tevara_low2</item>
+    </string-array>
+    <string-array name="gshk_bhajani_arrays">
+        <item>gshk_bhajani1</item>
+        <item>gshk_bhajani2</item>
+        <item>gshk_bhajani3</item>
+        <item>gshk_bhajani4</item>
+        <item>gshk_bhajani5</item>
+        <item>gshk_bhajani6</item>
+        <item>gshk_bhajani7</item>
+        <item>gshk_bhajani8</item>
+        <item>gshk_bhajani9</item>
+        <item>gshk_bhajani10</item>
+        <item>gshk_bhajani11</item>
+        <item>gshk_bhajani12</item>
+        <item>gshk_bhajani13</item>
+        <item>gshk_bhajani14</item>
+        <item>gshk_bhajani15</item>
+        <item>gshk_bhajani16</item>
+    </string-array> 
+    <string-array name="gshk_gandhaddha_arrays">
+        <item>gshk_gandhaddha1</item>
+        <item>gshk_gandhaddha2</item>
+        <item>gshk_gandhaddha3</item>
+        <item>gshk_gandhaddha4</item>
+        <item>gshk_gandhaddha5</item>
+        <item>gshk_gandhaddha6</item>
+        <item>gshk_gandhaddha7</item>
+    </string-array>
+    <string-array name="gshk_tilwada_arrays">
+        <item>gshk_tilwada1</item>
+        <item>gshk_tilwada2</item>
+        <item>gshk_tilwada3</item>
+    </string-array>
+    <string-array name="gshk_choutal_arrays">
+        <item>gshk_choutal1</item>
+        <item>gshk_choutal2</item>
+        <item>gshk_choutal3</item>
+    </string-array>
+    <string-array name="gshk_kehrava_arrays">
+        <item>gshk_kehrava1</item>
+        <item>gshk_kehrava2</item>
+        <item>gshk_kehrava3</item>
+        <item>gshk_kehrava4</item>
+        <item>gshk_kehrava5</item>
+        <item>gshk_kehrava6</item>
+        <item>gshk_kehrava7</item>
+    </string-array> 
+    <string-array name="gshk_trital1_arrays">
+        <item>gshk_trital_drut1</item>
+        <item>gshk_trital_drut2</item>
+        <item>gshk_trital_drut3</item>
+        <item>gshk_trital_drut4</item>
+        <item>gshk_trital_drut5</item>
+        <item>gshk_trital_drut6</item>
+        <item>gshk_trital_drut7</item>
+        <item>gshk_trital_drut8</item>
+        <item>gshk_trital_drut9</item>
+        <item>gshk_trital_drut10</item>
+        <item>gshk_trital_drut11</item>
+        <item>gshk_trital_drut12</item>
+        <item>gshk_trital_drut13</item>
+        <item>gshk_trital_drut14</item>
+        <item>gshk_trital_drut15</item>
+        <item>gshk_trital_drut16</item>
+    </string-array>
+    <string-array name="gshk_trital2_arrays">
+        <item>gshk_trital_madhya1</item>
+        <item>gshk_trital_madhya2</item>
+        <item>gshk_trital_madhya3</item>
+        <item>gshk_trital_madhya4</item>
+        <item>gshk_trital_madhya5</item>
+        <item>gshk_trital_madhya6</item>
+        <item>gshk_trital_madhya7</item>
+        <item>gshk_trital_madhya8</item>
+        <item>gshk_trital_madhya9</item>
+    </string-array>
+    <string-array name="gshk_trital3_arrays">
+        <item>gshk_trital_vilambit1</item>
+        <item>gshk_trital_vilambit2</item>
+        <item>gshk_trital_vilambit3</item>
+        <item>gshk_trital_vilambit4</item>
+        <item>gshk_trital_vilambit5</item>
+        <item>gshk_trital_vilambit6</item>
+        <item>gshk_trital_vilambit7</item>
+        <item>gshk_trital_vilambit8</item>
+        <item>gshk_trital_vilambit9</item>
+    </string-array>
+    <string-array name="gshk_dadra_arrays">
+        <item>gshk_dadra1</item>
+        <item>gshk_dadra2</item>
+        <item>gshk_dadra3</item>
+        <item>gshk_dadra4</item>
+        <item>gshk_dadra5</item>
+        <item>gshk_dadra6</item>
+        <item>gshk_dadra7</item>
+        <item>gshk_dadra8</item>
+        <item>gshk_dadra9</item>
+        <item>gshk_dadra10</item>
+        <item>gshk_dadra11</item>
+        <item>gshk_dadra12</item>
+        <item>gshk_dadra13</item>
+    </string-array>
+    <string-array name="gshk_keheravakhol_arrays">
+        <item>gshk_keheravakhol1</item>
+        <item>gshk_keheravakhol2</item>
+        <item>gshk_keheravakhol3</item>
+        <item>gshk_keheravakhol4</item>
+    </string-array>
+    <string-array name="gshk_zampa_arrays">
+        <item>gshk_zampa1</item>
+        <item>gshk_zampa2</item>
+        <item>gshk_zampa3</item>
+        <item>gshk_zampa4</item>
+        <item>gshk_zampa5</item>
+        <item>gshk_zampa6</item>
+    </string-array> 
+    <string-array name="gshk_dhamar_arrays">
+        <item>gshk_dhamar1</item>
+        <item>gshk_dhamar2</item>
+        <item>gshk_dhamar3</item>
+    </string-array>
+    <string-array name="gshk_khemata_arrays">
+        <item>gshk_khemata1</item>
+        <item>gshk_khemata2</item>
+        <item>gshk_khemata3</item>
+        <item>gshk_khemata4</item>
+        <item>gshk_khemata5</item>
+        <item>gshk_khemata6</item>
+        <item>gshk_khemata7</item>
+        <item>gshk_khemata8</item>
+        <item>gshk_khemata9</item>
+        <item>gshk_khemata10</item>
+        <item>gshk_khemata11</item>
+        <item>gshk_khemata12</item>
+        <item>gshk_khemata13</item>
+    </string-array>
+    <string-array name="gshk_zaptal1_arrays">
+        <item>gshk_zaptal_drut1</item>
+        <item>gshk_zaptal_drut2</item>
+        <item>gshk_zaptal_drut3</item>
+        <item>gshk_zaptal_drut4</item>
+        <item>gshk_zaptal_drut5</item>
+        <item>gshk_zaptal_drut6</item>
+        <item>gshk_zaptal_drut7</item>
+        <item>gshk_zaptal_drut8</item>
+    </string-array>
+    <string-array name="gshk_zaptal2_arrays">
+        <item>gshk_zaptal_madhya1</item>
+    </string-array> 
+    <string-array name="gshk_zaptal3_arrays">
+        <item>gshk_zaptal_vilambit1</item>
+        <item>gshk_zaptal_vilambit2</item>
+    </string-array>
+   <string-array name="gshk_dhumali_arrays">
+       <item>gshk_dhumali_low1</item>
+       <item>gshk_dhumali_low2</item>
+       <item>gshk_dhumali_low3</item>
+       <item>gshk_dhumali_low4</item>
+       <item>gshk_dhumali_low5</item>
+   </string-array>
+   <string-array name="gshk_punjabiaddha_arrays">
+       <item>gshk_punjabiaddha1</item>
+       <item>gshk_punjabiaddha2</item>
+       <item>gshk_punjabiaddha3</item>
+   </string-array>
+   <string-array name="gshk_zumara_arrays">
+       <item>gshk_zumara1</item>
+       <item>gshk_zumara2</item>
+       <item>gshk_zumara3</item>
+       <item>gshk_zumara4</item>
+   </string-array>
+   <string-array name="gshk_dipchandi_arrays">
+       <item>gshk_dipchandi1</item>
+       <item>gshk_dipchandi2</item>
+       <item>gshk_dipchandi3</item>
+       <item>gshk_dipchandi4</item>
+       <item>gshk_dipchandi5</item>
+       <item>gshk_dipchandi6</item>
+       <item>gshk_dipchandi7</item>
+       <item>gshk_dipchandi8</item>
+       <item>gshk_dipchandi9</item>
+       <item>gshk_dipchandi10</item>
+       <item>gshk_dipchandi11</item>
+       <item>gshk_dipchandi12</item>
+       <item>gshk_dipchandi13</item>
+       <item>gshk_dipchandi14</item>
+   </string-array> 
+   <string-array name="gshk_rupak1_arrays">
+       <item>gshk_rupak_drut1</item>
+       <item>gshk_rupak_drut2</item>
+       <item>gshk_rupak_drut3</item>
+       <item>gshk_rupak_drut4</item>
+       <item>gshk_rupak_drut5</item>
+       <item>gshk_rupak_drut6</item>
+       <item>gshk_rupak_drut7</item>
+       <item>gshk_rupak_drut8</item>
+   </string-array> 
+   <string-array name="gshk_rupak2_arrays">
+       <item>gshk_rupak_madhya1</item>
+       <item>gshk_rupak_madhya2</item>
+       <item>gshk_rupak_madhya3</item>
+       <item>gshk_rupak_madhya4</item>
+       <item>gshk_rupak_madhya5</item>
+       <item>gshk_rupak_madhya6</item>
+       <item>gshk_rupak_madhya7</item>
+       <item>gshk_rupak_madhya8</item>
+   </string-array> 
+   <string-array name="gshk_rupak3_arrays">
+       <item>gshk_rupak_vilambit1</item>
+       <item>gshk_rupak_vilambit2</item>
+       <item>gshk_rupak_vilambit3</item>
+       <item>gshk_rupak_vilambit4</item>
+       <item>gshk_rupak_vilambit5</item>
+       <item>gshk_rupak_vilambit6</item>
+       <item>gshk_rupak_vilambit7</item>
+       <item>gshk_rupak_vilambit8</item>
+       <item>gshk_rupak_vilambit9</item>
+   </string-array>
+   <string-array name="ashk_ada1_arrays">
+        <item>ashk_ada_drut1</item>
+        <item>ashk_ada_drut2</item>
+    </string-array>
+    <string-array name="ashk_ada2_arrays">
+        <item>ashk_ada_medium1</item>
+        <item>ashk_ada_medium2</item>
+        <item>ashk_ada_medium3</item>
+    </string-array>
+    <string-array name="ashk_ada3_arrays">
+        <item>ashk_ada_vilambit1</item>
+        <item>ashk_ada_vilambit2</item>
+        <item>ashk_ada_vilambit3</item>
+        <item>ashk_ada_vilambit4</item>
+    </string-array>
+    <string-array name="ashk_ekt1_arrays">
+        <item>ashk_ekt_drut1</item>
+        <item>ashk_ekt_drut2</item>
+        <item>ashk_ekt_drut3</item>
+        <item>ashk_ekt_drut4</item>
+    </string-array>
+    <string-array name="ashk_ekt2_arrays">
+        <item>ashk_ekt_madhya1</item>
+        <item>ashk_ekt_madhya2</item>
+        <item>ashk_ekt_madhya3</item>
+        <item>ashk_ekt_madhya4</item>
+        <item>ashk_ekt_madhya5</item>
+        <item>ashk_ekt_madhya6</item>
+        <item>ashk_ekt_madhya7</item>
+    </string-array>
+    <string-array name="ashk_ekt3_arrays">
+        <item>ashk_ekt_vilambit1</item>
+        <item>ashk_ekt_vilambit2</item>
+        <item>ashk_ekt_vilambit3</item>
+        <item>ashk_ekt_vilambit4</item>
+        <item>ashk_ekt_vilambit5</item>
+        <item>ashk_ekt_vilambit6</item>
+        <item>ashk_ekt_vilambit7</item>
+        <item>ashk_ekt_vilambit8</item>
+    </string-array>
+    <string-array name="ashk_sul_arrays">
+        <item>ashk_sul1</item>
+        <item>ashk_sul2</item>
+        <item>ashk_sul3</item>
+        <item>ashk_sul4</item>
+    </string-array>
+    <string-array name="ashk_addha_arrays">
+        <item>ashk_addha1</item>
+        <item>ashk_addha2</item>
+        <item>ashk_addha3</item>
+        <item>ashk_addha4</item>
+        <item>ashk_addha5</item>
+        <item>ashk_addha6</item>
+        <item>ashk_addha7</item>
+    </string-array> 
+    <string-array name="ashk_filmikeh_arrays">
+        <item>ashk_filmikeh1</item>
+        <item>ashk_filmikeh2</item>
+        <item>ashk_filmikeh3</item>
+        <item>ashk_filmikeh4</item>
+        <item>ashk_filmikeh5</item>
+        <item>ashk_filmikeh6</item>
+        <item>ashk_filmikeh7</item>
+        <item>ashk_filmikeh8</item>
+        <item>ashk_filmikeh9</item>
+    </string-array>
+    <string-array name="ashk_tevara_arrays">
+        <item>ashk_tevara1</item>
+        <item>ashk_tevara2</item>
+        <item>ashk_tevara3</item>
+        <item>ashk_tevara4</item>
+    </string-array>
+    <string-array name="ashk_bhajani_arrays">
+        <item>ashk_bhajani1</item>
+        <item>ashk_bhajani2</item>
+        <item>ashk_bhajani3</item>
+        <item>ashk_bhajani4</item>
+        <item>ashk_bhajani5</item>
+        <item>ashk_bhajani6</item>
+        <item>ashk_bhajani7</item>
+        <item>ashk_bhajani8</item>
+    </string-array> 
+    <string-array name="ashk_gandhaddha_arrays">
+        <item>ashk_gandhaddha1</item>
+        <item>ashk_gandhaddha2</item>
+        <item>ashk_gandhaddha3</item>
+    </string-array>
+    <string-array name="ashk_tilwada_arrays">
+        <item>ashk_tilwada1</item>
+        <item>ashk_tilwada2</item>
+        <item>ashk_tilwada3</item>
+        <item>ashk_tilwada4</item>
+        <item>ashk_tilwada5</item>
+    </string-array>
+    <string-array name="ashk_choutal_arrays">
+        <item>ashk_choutal1</item>
+        <item>ashk_choutal2</item>
+        <item>ashk_choutal3</item>
+        <item>ashk_choutal4</item>
+        <item>ashk_choutal5</item>
+    </string-array>
+    <string-array name="ashk_kehrava_arrays">
+        <item>ashk_kehrava1</item>
+        <item>ashk_kehrava2</item>
+        <item>ashk_kehrava3</item>
+        <item>ashk_kehrava4</item>
+    </string-array> 
+    <string-array name="ashk_trital1_arrays">
+        <item>ashk_trital_drut1</item>
+        <item>ashk_trital_drut2</item>
+        <item>ashk_trital_drut3</item>
+        <item>ashk_trital_drut4</item>
+        <item>ashk_trital_drut5</item>
+        <item>ashk_trital_drut6</item>
+        <item>ashk_trital_drut7</item>
+    </string-array>
+    <string-array name="ashk_trital2_arrays">
+        <item>ashk_trital_madhya1</item>
+        <item>ashk_trital_madhya2</item>
+        <item>ashk_trital_madhya3</item>
+        <item>ashk_trital_madhya4</item>
+        <item>ashk_trital_madhya5</item>
+        <item>ashk_trital_madhya6</item>
+        <item>ashk_trital_madhya7</item>
+    </string-array>
+    <string-array name="ashk_trital3_arrays">
+        <item>ashk_trital_vilambit1</item>
+        <item>ashk_trital_vilambit2</item>
+        <item>ashk_trital_vilambit3</item>
+        <item>ashk_trital_vilambit4</item>
+        <item>ashk_trital_vilambit5</item>
+        <item>ashk_trital_vilambit6</item>
+        <item>ashk_trital_vilambit7</item>
+        <item>ashk_trital_vilambit8</item>
+        <item>ashk_trital_vilambit9</item>
+    </string-array>
+    <string-array name="ashk_dadra_arrays">
+        <item>ashk_dadra1</item>
+        <item>ashk_dadra2</item>
+        <item>ashk_dadra3</item>
+        <item>ashk_dadra4</item>
+        <item>ashk_dadra5</item>
+        <item>ashk_dadra6</item>
+        <item>ashk_dadra7</item>
+        <item>ashk_dadra8</item>
+        <item>ashk_dadra9</item>
+        <item>ashk_dadra10</item>
+        <item>ashk_dadra11</item>
+        <item>ashk_dadra12</item>
+    </string-array>
+    <string-array name="ashk_keheravakhol_arrays">
+        <item>ashk_keheravakhol1</item>
+        <item>ashk_keheravakhol2</item>
+    </string-array>
+    <string-array name="ashk_zampa_arrays">
+        <item>ashk_zampa1</item>
+        <item>ashk_zampa2</item>
+    </string-array> 
+    <string-array name="ashk_dhamar_arrays">
+        <item>ashk_dhamar1</item>
+        <item>ashk_dhamar2</item>
+        <item>ashk_dhamar3</item>
+        <item>ashk_dhamar4</item>
+    </string-array>
+    <string-array name="ashk_khemata_arrays">
+        <item>ashk_khemata1</item>
+        <item>ashk_khemata2</item>
+        <item>ashk_khemata3</item>
+    </string-array> 
+    <string-array name="ashk_zaptal1_arrays">
+        <item>ashk_zaptal_drut1</item>
+        <item>ashk_zaptal_drut2</item>
+        <item>ashk_zaptal_drut3</item>
+    </string-array>
+    <string-array name="ashk_zaptal2_arrays">
+        <item>ashk_zaptal_madhya1</item>
+        <item>ashk_zaptal_madhya2</item>
+        <item>ashk_zaptal_madhya3</item>
+    </string-array> 
+    <string-array name="ashk_zaptal3_arrays">
+        <item>ashk_zaptal_vilambit1</item>
+        <item>ashk_zaptal_vilambit2</item>
+        <item>ashk_zaptal_vilambit3</item>
+        <item>ashk_zaptal_vilambit4</item>
+        <item>ashk_zaptal_vilambit5</item>
+    </string-array>
+   <string-array name="ashk_dhumali_arrays">
+       <item>ashk_dhumali1</item>
+       <item>ashk_dhumali2</item>
+       <item>ashk_dhumali3</item>
+       <item>ashk_dhumali4</item>
+       <item>ashk_dhumali5</item>
+       <item>ashk_dhumali6</item>
+       <item>ashk_dhumali7</item>
+   </string-array>
+   <string-array name="ashk_punjabiaddha_arrays">
+       <item>ashk_punjabiaddha1</item>
+       <item>ashk_punjabiaddha2</item>
+       <item>ashk_punjabiaddha3</item>
+   </string-array>
+   <string-array name="ashk_zumara_arrays">
+       <item>ashk_zumara1</item>
+       <item>ashk_zumara2</item>
+       <item>ashk_zumara3</item>
+       <item>ashk_zumara4</item>
+       <item>ashk_zumara5</item>
+       <item>ashk_zumara6</item>
+       <item>ashk_zumara7</item>
+       <item>ashk_zumara8</item>
+   </string-array>
+   <string-array name="ashk_dipchandi_arrays">
+       <item>ashk_dipchandi1</item>
+       <item>ashk_dipchandi2</item>
+       <item>ashk_dipchandi3</item>
+       <item>ashk_dipchandi4</item>
+       <item>ashk_dipchandi5</item>
+       <item>ashk_dipchandi6</item>
+       <item>ashk_dipchandi7</item>
+       <item>ashk_dipchandi8</item>
+       <item>ashk_dipchandi9</item>
+       <item>ashk_dipchandi10</item>
+   </string-array> 
+   <string-array name="ashk_rupak1_arrays">
+       <item>ashk_rupak_drut1</item>
+       <item>ashk_rupak_drut2</item>
+       <item>ashk_rupak_drut3</item>
+   </string-array> 
+   <string-array name="ashk_rupak2_arrays">
+       <item>ashk_rupak_madhya1</item>
+       <item>ashk_rupak_madhya2</item>
+       <item>ashk_rupak_madhya3</item>
+       <item>ashk_rupak_madhya4</item>
+   </string-array> 
+   <string-array name="ashk_rupak3_arrays">
+       <item>ashk_rupak_vilambit1</item>
+       <item>ashk_rupak_vilambit2</item>
+       <item>ashk_rupak_vilambit3</item>
+       <item>ashk_rupak_vilambit4</item>
+       <item>ashk_rupak_vilambit5</item>
+       <item>ashk_rupak_vilambit6</item>
+   </string-array>
+   <string-array name="cshs_ada_low1_arrays">
+        <item>cshs_ada_low_drut1</item>
+        <item>cshs_ada_low_drut2</item>
+        <item>cshs_ada_low_drut3</item>
+        <item>cshs_ada_low_drut4</item>
+        <item>cshs_ada_low_drut5</item>
+        <item>cshs_ada_low_drut6</item>
+        <item>cshs_ada_low_drut7</item>
+    </string-array>
+    <string-array name="cshs_ada_low2_arrays">
+        <item>cshs_ada_low_madhya1</item>
+        <item>cshs_ada_low_madhya2</item>
+        <item>cshs_ada_low_madhya3</item>
+        <item>cshs_ada_low_madhya4</item>
+    </string-array>
+    <string-array name="cshs_ada_low3_arrays">
+        <item>cshs_ada_low_vilambit1</item>
+        <item>cshs_ada_low_vilambit2</item>
+        <item>cshs_ada_low_vilambit3</item>
+        <item>cshs_ada_low_vilambit4</item>
+        <item>cshs_ada_low_vilambit5</item>
+        <item>cshs_ada_low_vilambit6</item>
+    </string-array>
+    <string-array name="cshs_ada_high1_arrays">
+        <item>cshs_ada_high_drut1</item>
+        <item>cshs_ada_high_drut2</item>
+        <item>cshs_ada_high_drut3</item>
+    </string-array>
+    <string-array name="cshs_ada_high2_arrays">
+        <item>cshs_ada_high_madhya1</item>
+        <item>cshs_ada_high_madhya2</item>
+        <item>cshs_ada_high_madhya3</item>
+    </string-array>
+    <string-array name="cshs_ada_high3_arrays">
+        <item>cshs_ada_high_vilambit1</item>
+        <item>cshs_ada_high_vilambit2</item>
+        <item>cshs_ada_high_vilambit3</item>
+        <item>cshs_ada_high_vilambit4</item>
+        <item>cshs_ada_high_vilambit5</item>
+        <item>cshs_ada_high_vilambit6</item>
+        <item>cshs_ada_high_vilambit7</item>
+        <item>cshs_ada_high_vilambit8</item>
+        <item>cshs_ada_high_vilambit9</item>
+        <item>cshs_ada_high_vilambit10</item>
+    </string-array>
+    <string-array name="cshs_ekt_low1_arrays">
+        <item>cshs_ekt_low_drut1</item>
+        <item>cshs_ekt_low_drut2</item>
+        <item>cshs_ekt_low_drut3</item>
+        <item>cshs_ekt_low_drut4</item>
+        <item>cshs_ekt_low_drut5</item>
+        <item>cshs_ekt_low_drut6</item>
+        <item>cshs_ekt_low_drut7</item>
+        <item>cshs_ekt_low_drut8</item>
+    </string-array>
+    <string-array name="cshs_ekt_low2_arrays">
+        <item>cshs_ekt_low_madhya1</item>
+        <item>cshs_ekt_low_madhya2</item>
+        <item>cshs_ekt_low_madhya3</item>
+        <item>cshs_ekt_low_madhya4</item>
+        <item>cshs_ekt_low_madhya5</item>
+        <item>cshs_ekt_low_madhya6</item>
+        <item>cshs_ekt_low_madhya7</item>
+        <item>cshs_ekt_low_madhya8</item>
+        <item>cshs_ekt_low_madhya9</item>
+    </string-array>
+    <string-array name="cshs_ekt_low3_arrays">
+        <item>cshs_ekt_low_vilambit1</item>
+        <item>cshs_ekt_low_vilambit2</item>
+        <item>cshs_ekt_low_vilambit3</item>
+        <item>cshs_ekt_low_vilambit4</item>
+        <item>cshs_ekt_low_vilambit5</item>
+        <item>cshs_ekt_low_vilambit6</item>
+        <item>cshs_ekt_low_vilambit7</item>
+        <item>cshs_ekt_low_vilambit8</item>
+        <item>cshs_ekt_low_vilambit9</item>
+        <item>cshs_ekt_low_vilambit10</item>
+        <item>cshs_ekt_low_vilambit11</item>
+        <item>cshs_ekt_low_vilambit12</item>
+        <item>cshs_ekt_low_vilambit13</item>
+        <item>cshs_ekt_low_vilambit14</item>
+        <item>cshs_ekt_low_vilambit15</item>
+        <item>cshs_ekt_low_vilambit16</item>
+        <item>cshs_ekt_low_vilambit17</item>
+        <item>cshs_ekt_low_vilambit18</item>
+    </string-array>
+    <string-array name="cshs_ekt_high1_arrays">
+        <item>cshs_ekt_high_drut1</item>
+        <item>cshs_ekt_high_drut2</item>
+        <item>cshs_ekt_high_drut3</item>
+        <item>cshs_ekt_high_drut4</item>
+        <item>cshs_ekt_high_drut5</item>
+        <item>cshs_ekt_high_drut6</item>
+        <item>cshs_ekt_high_drut7</item>
+    </string-array>
+    <string-array name="cshs_ekt_high2_arrays">
+        <item>cshs_ekt_high_madhya1</item>
+        <item>cshs_ekt_high_madhya2</item>
+        <item>cshs_ekt_high_madhya3</item>
+        <item>cshs_ekt_high_madhya4</item>
+        <item>cshs_ekt_high_madhya5</item>
+    </string-array> 
+     <string-array name="cshs_ekt_high3_arrays">
+        <item>cshs_ekt_high_vilambit1</item>
+        <item>cshs_ekt_high_vilambit2</item>
+        <item>cshs_ekt_high_vilambit3</item>
+        <item>cshs_ekt_high_vilambit4</item>
+        <item>cshs_ekt_high_vilambit5</item>
+        <item>cshs_ekt_high_vilambit6</item>
+        <item>cshs_ekt_high_vilambit7</item>
+        <item>cshs_ekt_high_vilambit8</item>
+        <item>cshs_ekt_high_vilambit9</item>
+        <item>cshs_ekt_high_vilambit10</item>
+    </string-array>
+    <string-array name="cshs_sul_low_arrays">
+        <item>cshs_sul_low1</item>
+        <item>cshs_sul_low2</item>
+        <item>cshs_sul_low3</item>
+        <item>cshs_sul_low4</item>
+        <item>cshs_sul_low5</item>
+        <item>cshs_sul_low6</item>
+        <item>cshs_sul_low7</item>
+        <item>cshs_sul_low8</item>
+    </string-array>
+    <string-array name="cshs_sul_high_arrays">
+        <item>cshs_sul_high1</item>
+        <item>cshs_sul_high2</item>
+        <item>cshs_sul_high3</item>
+        <item>cshs_sul_high4</item>
+        <item>cshs_sul_high5</item>
+        <item>cshs_sul_high6</item>
+        <item>cshs_sul_high7</item>
+        <item>cshs_sul_high8</item>
+    </string-array>
+    <string-array name="cshs_addha_low_arrays">
+        <item>cshs_addha_low1</item>
+        <item>cshs_addha_low2</item>
+        <item>cshs_addha_low3</item>
+        <item>cshs_addha_low4</item>
+        <item>cshs_addha_low5</item>
+        <item>cshs_addha_low6</item>
+        <item>cshs_addha_low7</item>
+        <item>cshs_addha_low8</item>
+    </string-array> 
+    <string-array name="cshs_addha_high_arrays">
+        <item>cshs_addha_high1</item>
+        <item>cshs_addha_high2</item>
+        <item>cshs_addha_high3</item>
+        <item>cshs_addha_high4</item>
+        <item>cshs_addha_high5</item>
+        <item>cshs_addha_high6</item>
+        <item>cshs_addha_high7</item>
+        <item>cshs_addha_high8</item>
+        <item>cshs_addha_high9</item>
+        <item>cshs_addha_high10</item>
+        <item>cshs_addha_high11</item>
+        <item>cshs_addha_high12</item>
+    </string-array>
+    <string-array name="cshs_filmikeh_high_arrays">
+        <item>cshs_filmikeh_high1</item>
+        <item>cshs_filmikeh_high2</item>
+        <item>cshs_filmikeh_high3</item>
+        <item>cshs_filmikeh_high4</item>
+        <item>cshs_filmikeh_high5</item>
+        <item>cshs_filmikeh_high6</item>
+        <item>cshs_filmikeh_high7</item>
+        <item>cshs_filmikeh_high8</item>
+        <item>cshs_filmikeh_high9</item>
+        <item>cshs_filmikeh_high10</item>
+        <item>cshs_filmikeh_high11</item>
+        <item>cshs_filmikeh_high12</item>
+        <item>cshs_filmikeh_high13</item>
+        <item>cshs_filmikeh_high14</item>
+        <item>cshs_filmikeh_high15</item>
+    </string-array>
+    <string-array name="cshs_tevara_low_arrays">
+        <item>cshs_tevara_low1</item>
+        <item>cshs_tevara_low2</item>
+        <item>cshs_tevara_low3</item>
+        <item>cshs_tevara_low4</item>
+        <item>cshs_tevara_low5</item>
+        <item>cshs_tevara_low6</item>
+        <item>cshs_tevara_low7</item>
+        <item>cshs_tevara_low8</item>
+        <item>cshs_tevara_low9</item>
+        <item>cshs_tevara_low10</item>
+    </string-array>
+    <string-array name="cshs_tevara_high_arrays">
+        <item>cshs_tevara_high1</item>
+        <item>cshs_tevara_high2</item>
+        <item>cshs_tevara_high3</item>
+        <item>cshs_tevara_high4</item>
+        <item>cshs_tevara_high5</item>
+        <item>cshs_tevara_high6</item>
+        <item>cshs_tevara_high7</item>
+        <item>cshs_tevara_high8</item>
+    </string-array>
+    <string-array name="cshs_bhajani_low_arrays">
+        <item>cshs_bhajani_low1</item>
+        <item>cshs_bhajani_low2</item>
+        <item>cshs_bhajani_low3</item>
+        <item>cshs_bhajani_low4</item>
+        <item>cshs_bhajani_low5</item>
+        <item>cshs_bhajani_low6</item>
+        <item>cshs_bhajani_low7</item>
+        <item>cshs_bhajani_low8</item>
+        <item>cshs_bhajani_low9</item>
+        <item>cshs_bhajani_low10</item>
+        <item>cshs_bhajani_low11</item>
+        <item>cshs_bhajani_low12</item>
+        <item>cshs_bhajani_low13</item>
+        <item>cshs_bhajani_low14</item>
+        <item>cshs_bhajani_low15</item>
+        <item>cshs_bhajani_low16</item>
+        <item>cshs_bhajani_low17</item>
+        <item>cshs_bhajani_low18</item>
+        <item>cshs_bhajani_low19</item>
+    </string-array> 
+    <string-array name="cshs_bhajani_high_arrays">
+        <item>cshs_bhajani_high1</item>
+        <item>cshs_bhajani_high2</item>
+        <item>cshs_bhajani_high3</item>
+        <item>cshs_bhajani_high4</item>
+        <item>cshs_bhajani_high5</item>
+        <item>cshs_bhajani_high6</item>
+        <item>cshs_bhajani_high7</item>
+        <item>cshs_bhajani_high8</item>
+        <item>cshs_bhajani_high9</item>
+        <item>cshs_bhajani_high10</item>
+        <item>cshs_bhajani_high11</item>
+        <item>cshs_bhajani_high12</item>
+        <item>cshs_bhajani_high13</item>
+        <item>cshs_bhajani_high14</item>
+        <item>cshs_bhajani_high15</item>
+        <item>cshs_bhajani_high16</item>
+        <item>cshs_bhajani_high17</item>
+        <item>cshs_bhajani_high18</item>
+    </string-array>
+    <string-array name="cshs_gandhaddha_low_arrays">
+        <item>cshs_gandhaddha_low1</item>
+        <item>cshs_gandhaddha_low2</item>
+        <item>cshs_gandhaddha_low3</item>
+        <item>cshs_gandhaddha_low4</item>
+        <item>cshs_gandhaddha_low5</item>
+        <item>cshs_gandhaddha_low6</item>
+    </string-array>
+    <string-array name="cshs_gandhaddha_high_arrays">
+        <item>cshs_gandhaddha_high1</item>
+        <item>cshs_gandhaddha_high2</item>
+    </string-array>
+    <string-array name="cshs_tilwada_low_arrays">
+        <item>cshs_tilwada_low1</item>
+        <item>cshs_tilwada_low2</item>
+        <item>cshs_tilwada_low3</item>
+        <item>cshs_tilwada_low4</item>
+        <item>cshs_tilwada_low5</item>
+        <item>cshs_tilwada_low6</item>
+        <item>cshs_tilwada_low7</item>
+        <item>cshs_tilwada_low8</item>
+        <item>cshs_tilwada_low9</item>
+        <item>cshs_tilwada_low10</item>
+        <item>cshs_tilwada_low11</item>
+        <item>cshs_tilwada_low12</item>
+        <item>cshs_tilwada_low13</item>
+        <item>cshs_tilwada_low14</item>
+        <item>cshs_tilwada_low15</item>
+        <item>cshs_tilwada_low16</item>
+        <item>cshs_tilwada_low17</item>
+        <item>cshs_tilwada_low18</item>
+        <item>cshs_tilwada_low19</item>
+        <item>cshs_tilwada_low20</item>
+    </string-array>
+    <string-array name="cshs_tilwada_high_arrays">
+        <item>cshs_tilwada_high1</item>
+        <item>cshs_tilwada_high2</item>
+        <item>cshs_tilwada_high3</item>
+        <item>cshs_tilwada_high4</item>
+        <item>cshs_tilwada_high5</item>
+        <item>cshs_tilwada_high6</item>
+        <item>cshs_tilwada_high7</item>
+        <item>cshs_tilwada_high8</item>
+        <item>cshs_tilwada_high9</item>
+        <item>cshs_tilwada_high10</item>
+    </string-array>
+    <string-array name="cshs_choutal_low_arrays">
+        <item>cshs_choutal_low1</item>
+        <item>cshs_choutal_low2</item>
+        <item>cshs_choutal_low3</item>
+        <item>cshs_choutal_low4</item>
+        <item>cshs_choutal_low5</item>
+        <item>cshs_choutal_low6</item>
+        <item>cshs_choutal_low7</item>
+        <item>cshs_choutal_low8</item>
+        <item>cshs_choutal_low9</item>
+        <item>cshs_choutal_low10</item>
+        <item>cshs_choutal_low11</item>
+    </string-array>
+    <string-array name="cshs_choutal_high_arrays">
+        <item>cshs_choutal_high1</item>
+        <item>cshs_choutal_high2</item>
+        <item>cshs_choutal_high3</item>
+        <item>cshs_choutal_high4</item>
+        <item>cshs_choutal_high5</item>
+        <item>cshs_choutal_high6</item>
+        <item>cshs_choutal_high7</item>
+        <item>cshs_choutal_high8</item>
+        <item>cshs_choutal_high9</item>
+        <item>cshs_choutal_high10</item>
+        <item>cshs_choutal_high11</item>
+    </string-array>
+    <string-array name="cshs_kehrava_high_arrays">
+        <item>cshs_kehrava_high1</item>
+        <item>cshs_kehrava_high2</item>
+        <item>cshs_kehrava_high3</item>
+        <item>cshs_kehrava_high4</item>
+        <item>cshs_kehrava_high5</item>
+        <item>cshs_kehrava_high6</item>
+        <item>cshs_kehrava_high7</item>
+        <item>cshs_kehrava_high8</item>
+        <item>cshs_kehrava_high9</item>
+        <item>cshs_kehrava_high10</item>
+        <item>cshs_kehrava_high11</item>
+        <item>cshs_kehrava_high12</item>
+        <item>cshs_kehrava_high13</item>
+        <item>cshs_kehrava_high14</item>
+        <item>cshs_kehrava_high15</item>
+        <item>cshs_kehrava_high16</item>
+        <item>cshs_kehrava_high17</item>
+        <item>cshs_kehrava_high18</item>
+        <item>cshs_kehrava_high19</item>
+        <item>cshs_kehrava_high20</item>
+    </string-array>
+    <string-array name="swaar_empty_arrays">
+        <item>No swaar available</item>
+    </string-array>    
+    <string-array name="tanpura_arrays">
+        <item>Single Tanpura</item>
+        <item>Twin Tanpura</item>
+    </string-array>   
+    <string-array name="scale_arrays">
+        <item>\'C\' Sharp (काली १)</item>
+        <item>\'D\' Sharp (काली २ )</item>
+        <item>\'F\' Sharp  (काली ३ )</item>
+        <item>\'G\' Sharp (काली ४ )</item>
+        <item>\'A\' Sharp (काली 5)</item>
+        <item>\'C\' Scale (सफ़ेद १ )</item>
+        <item>\'D\' Scale (सफ़ेद २)</item>
+        <item>\'E\' Scale (सफ़ेद ३)</item>
+        <item>\'F\' Scale (सफ़ेद ४ )</item>
+         <item>A (सफेद ६ )</item>
+    </string-array>
+    <string-array name="scale_arrays1">
+        <item>\'C\' Sharp (काली १)</item>
+        <item>\'D\' Sharp (काली २ )</item>
+        <item>\'F\' Sharp  (काली ३ )</item>
+        <item>\'G\' Sharp (काली ४ )</item>
+        <item>\'A\' Sharp (काली 5)</item>
+        <item>\'D\' Scale (सफ़ेद २)</item>
+        <item>\'E\' Scale (सफ़ेद ३)</item>
+        <item>\'F\' Scale (सफ़ेद ४ )</item>
+         <item>A (सफेद ६ )</item>
+    </string-array>   
+    <string-array name="taal1_arrays">
+        <item>Ada Choutal (अदा चौताल )</item>
+        <item>Ektal (एकताल)</item>
+        <item>Sultal ( सुलताल )</item>
+        <item>Addha Tintal (अधा तिनताल)</item>
+        <item>Filmi Keherava (फ़िल्मी केहरवा)</item>
+        <item>Tevara (तेवरा)</item>
+        <item>Bhajani (भजनि)</item>
+        <item>Gandharvi Addha (गधर्वी अद्ध)</item>
+        <item>Tilwada (तिलवाडा)</item>
+        <item>Choutal(चौतल)</item>
+        <item>Keherava (केहरवा)</item>
+        <item>Trital (तिनताल)</item>
+        <item>Dadra (दादरा)</item>
+        <item>Keherava Khol Eeffect ( केहेरवा खोल ईफ़ेक्ट)</item>
+        <item>Zampa ( ज़म्पा)</item>
+        <item>Dhamar (धमार)</item>
+        <item>Khemata ( खेमटा)</item>
+        <item>Zaptal ( झपताल)</item>
+        <item>Dhumali (धुमली)</item>
+        <item>Punjabi Addha ( पंजाबी अध्धा)</item>
+        <item>Zumara (झुमरा)</item>
+        <item>Dipchandi (दिपचंदी)</item>
+        <item>Rupak (रुपक)</item>
+    </string-array>
+    <string-array name="taal2_arrays">
+        <item>Ada Choutal (अदा चौताल )</item>
+        <item>Ektal (एकताल)</item>
+        <item>Sultal ( सुलताल )</item>
+        <item>Addha Tintal (अधा तिनताल)</item>
+        <item>Filmi Keherava (फ़िल्मी केहरवा)</item>
+        <item>Tevara (तेवरा)</item>
+        <item>Bhajani (भजनि)</item>
+        <item>Gandharvi Addha (गधर्वी अद्ध)</item>
+        <item>Tilwada (तिलवाडा)</item>
+        <item>Choutal(चौतल)</item>
+        <item>Keherava (केहरवा)</item>
+        <item>Trital (तिनताल)</item>
+        <item>Dadra (दादरा)</item>
+        <item>Khemata ( खेमटा)</item>
+        <item>Zampa ( ज़म्पा)</item>
+        <item>Dhamar (धमार)</item>
+        <item>Punjabi Addha ( पंजाबी अध्धा)</item>
+        <item>Zaptal ( झपताल)</item>
+        <item>Dhumali (धुमली)</item>
+        <item>Rupak (रुपक)</item>
+        <item>Zumara (झुमरा)</item>
+        <item>Dipchandi (दिपचंदी)</item>
+     </string-array>
+     <string-array name="taal3_arrays">
+         <item>Ada Choutal (अदा चौताल )</item>
+          <item>Dipchandi (दिपचंदी)</item>
+          <item>Tilwada (तिलवाडा)</item>
+          <item>Addha Tintal (अधा तिनताल)</item>
+          <item>Ektal (एकताल)</item>
+          <item>Trital (तिनताल)</item>
+          <item>Bhajani (भजनि)</item>
+          <item>Keherava (केहरवा)</item>
+          <item>Zaptal ( झपताल)</item>
+          <item>Dadra (दादरा)</item>
+          <item>Mattatal (मात)</item>
+          <item>Zumara (झुमरा)</item>
+          <item>Dhumali (धुमली)</item>
+        <item>Rupak (रुपक)</item>
+     </string-array>
+     <string-array name="taal4_arrays">
+         <item>Ada Choutal (अदा चौताल )</item>
+          <item>Dipchandi (दिपचंदी)</item>
+          <item>Sultal ( सुलताल )</item>
+          <item>Addha Tintal (अधा तिनताल)</item>
+          <item>Ektal (एकताल)</item>
+          <item>Tevara (तेवरा)</item>
+        <item>Bhajani (भजनि)</item>
+        <item>Keherava (केहरवा)</item>
+        <item>Tilwada (तिलवाडा)</item>
+        <item>Choutal(चौतल)</item>
+        <item>Mattatal (मात)</item>
+        <item>Trital (तिनताल)</item>
+        <item>Dadra (दादरा)</item>
+        <item>Pancham Sawari Type 1</item>
+        <item>Zaptal ( झपताल)</item>
+        <item>Dhamar (धमार)</item>
+        <item>Pancham Sawari Type 2</item>
+        <item>Zumara (झुमरा)</item>
+          <item>Dhumali (धुमली)</item>
+        <item>Rupak (रुपक)</item>
+     </string-array>
+     <string-array name="swaar1_arrays"> 
+         <item>Tabla Low Pitch- Kharj Swar (खर्ज स्वर )</item>
+         <item>Tabla High Pitch-तार_स्वर</item>
+         <item>Pakhavaj</item>
+     </string-array>
+     <string-array name="swaar2_arrays">
+        <item>Tabla Low Pitch- Kharj Swar (खर्ज स्वर )</item>
+         <item>Tabla High Pitch-तार_स्वर</item>
+     </string-array>
+     <string-array name="swaar3_arrays">
+         <item>Tabla Low Pitch- Kharj Swar (खर्ज स्वर )</item>
+     </string-array>
+     <string-array name="swaar4_arrays"> 
+          <item>Tabla High Pitch-तार_स्वर</item>
+     </string-array>
+     <string-array name="swaar5_arrays">
+         <item>Extras</item>
+         <item>Tabla Low Pitch- Kharj Swar (खर्ज स्वर )</item>
+         <item>Tabla High Pitch-तार_स्वर</item> 
+     </string-array>
+     <string-array name="swaar6_arrays">
+         <item>Pakhavaj</item>
+     </string-array>
+     <string-array name="swaar7_arrays">
+         <item>Pancham</item>
+         <item>Medium</item>
+         <item>Nishad</item>
+     </string-array>
+     <string-array name="swaar8_arrays">
+         <item>Pancham</item>
+         <item>Madhyam</item>
+         <item>Nishad</item>
+     </string-array>
+     <string-array name="swaar9_arrays">
+         <item>Pancham</item>
+         <item>Madhyam</item>
+         <item>Fast</item>
+     </string-array>            
+     <string-array name="laya_arrays"> 
+         <item>Drut Laya</item>
+         <item>Madhya Laya</item>
+         <item>Vilambit Laya</item>
+     </string-array>
+     <string-array name="laya1_arrays"> 
+         <item>Kehrava Type 1</item>
+         <item>Kehrava Type 2</item>
+         <item>Kehrava Type 3</item>
+     </string-array> 
+     <string-array name="swar_tempo_arrays">
+         <item>Slow</item>
+         <item>Medium</item> 
+         <item>Fast</item>
+     </string-array>                 
+</resources>
